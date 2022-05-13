@@ -1,0 +1,977 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Lady Carneval",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Jiří Kratochvil",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-05-19T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis, MLP_uroven3_nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "lady_carneval_001.md",
+            "xhtml": "lady_carneval_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_002.md",
+            "xhtml": "lady_carneval_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_003.md",
+            "xhtml": "lady_carneval_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_004.md",
+            "xhtml": "lady_carneval_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_005.md",
+            "xhtml": "lady_carneval_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_006.md",
+            "xhtml": "lady_carneval_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_007.md",
+            "xhtml": "lady_carneval_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_008.md",
+            "xhtml": "lady_carneval_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_009.md",
+            "xhtml": "lady_carneval_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_010.md",
+            "xhtml": "lady_carneval_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_011.md",
+            "xhtml": "lady_carneval_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_012.md",
+            "xhtml": "lady_carneval_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_013.md",
+            "xhtml": "lady_carneval_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_014.md",
+            "xhtml": "lady_carneval_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_015.md",
+            "xhtml": "lady_carneval_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_016.md",
+            "xhtml": "lady_carneval_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_017.md",
+            "xhtml": "lady_carneval_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_018.md",
+            "xhtml": "lady_carneval_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_019.md",
+            "xhtml": "lady_carneval_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_020.md",
+            "xhtml": "lady_carneval_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_021.md",
+            "xhtml": "lady_carneval_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_022.md",
+            "xhtml": "lady_carneval_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_023.md",
+            "xhtml": "lady_carneval_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_024.md",
+            "xhtml": "lady_carneval_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_025.md",
+            "xhtml": "lady_carneval_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_026.md",
+            "xhtml": "lady_carneval_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_027.md",
+            "xhtml": "lady_carneval_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_028.md",
+            "xhtml": "lady_carneval_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_029.md",
+            "xhtml": "lady_carneval_029.xhtml",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_030.md",
+            "xhtml": "lady_carneval_030.xhtml",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_031.md",
+            "xhtml": "lady_carneval_031.xhtml",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_032.md",
+            "xhtml": "lady_carneval_032.xhtml",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_033.md",
+            "xhtml": "lady_carneval_033.xhtml",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_034.md",
+            "xhtml": "lady_carneval_034.xhtml",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_035.md",
+            "xhtml": "lady_carneval_035.xhtml",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_036.md",
+            "xhtml": "lady_carneval_036.xhtml",
+            "id": 35,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_037.md",
+            "xhtml": "lady_carneval_037.xhtml",
+            "id": 36,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_038.md",
+            "xhtml": "lady_carneval_038.xhtml",
+            "id": 37,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_039.md",
+            "xhtml": "lady_carneval_039.xhtml",
+            "id": 38,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_040.md",
+            "xhtml": "lady_carneval_040.xhtml",
+            "id": 39,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_041.md",
+            "xhtml": "lady_carneval_041.xhtml",
+            "id": 40,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_042.md",
+            "xhtml": "lady_carneval_042.xhtml",
+            "id": 41,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_043.md",
+            "xhtml": "lady_carneval_043.xhtml",
+            "id": 42,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_044.md",
+            "xhtml": "lady_carneval_044.xhtml",
+            "id": 43,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_045.md",
+            "xhtml": "lady_carneval_045.xhtml",
+            "id": 44,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_046.md",
+            "xhtml": "lady_carneval_046.xhtml",
+            "id": 45,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_047.md",
+            "xhtml": "lady_carneval_047.xhtml",
+            "id": 46,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_048.md",
+            "xhtml": "lady_carneval_048.xhtml",
+            "id": 47,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_049.md",
+            "xhtml": "lady_carneval_049.xhtml",
+            "id": 48,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "lady_carneval_050.md",
+            "xhtml": "lady_carneval_050.xhtml",
+            "id": 49,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Lady Carneval",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Jiří Kratochvil",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-05-19T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_001.md",
+        "xhtml": "lady_carneval_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_002.md",
+        "xhtml": "lady_carneval_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_003.md",
+        "xhtml": "lady_carneval_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_004.md",
+        "xhtml": "lady_carneval_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_005.md",
+        "xhtml": "lady_carneval_005.xhtml"
+      },
+      {
+        "titleSuggest": "PRVNÍ ČÁST",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_006.md",
+        "xhtml": "lady_carneval_006.xhtml"
+      },
+      {
+        "titleSuggest": "1",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_007.md",
+        "xhtml": "lady_carneval_007.xhtml"
+      },
+      {
+        "titleSuggest": "2",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_008.md",
+        "xhtml": "lady_carneval_008.xhtml"
+      },
+      {
+        "titleSuggest": "3",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_009.md",
+        "xhtml": "lady_carneval_009.xhtml"
+      },
+      {
+        "titleSuggest": "4",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_010.md",
+        "xhtml": "lady_carneval_010.xhtml"
+      },
+      {
+        "titleSuggest": "5",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_011.md",
+        "xhtml": "lady_carneval_011.xhtml"
+      },
+      {
+        "titleSuggest": "6",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_012.md",
+        "xhtml": "lady_carneval_012.xhtml"
+      },
+      {
+        "titleSuggest": "7",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_013.md",
+        "xhtml": "lady_carneval_013.xhtml"
+      },
+      {
+        "titleSuggest": "8",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_014.md",
+        "xhtml": "lady_carneval_014.xhtml"
+      },
+      {
+        "titleSuggest": "9",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_015.md",
+        "xhtml": "lady_carneval_015.xhtml"
+      },
+      {
+        "titleSuggest": "10",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_016.md",
+        "xhtml": "lady_carneval_016.xhtml"
+      },
+      {
+        "titleSuggest": "11",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_017.md",
+        "xhtml": "lady_carneval_017.xhtml"
+      },
+      {
+        "titleSuggest": "DRUHÁ ČÁST",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_018.md",
+        "xhtml": "lady_carneval_018.xhtml"
+      },
+      {
+        "titleSuggest": "12",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_019.md",
+        "xhtml": "lady_carneval_019.xhtml"
+      },
+      {
+        "titleSuggest": "13",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_020.md",
+        "xhtml": "lady_carneval_020.xhtml"
+      },
+      {
+        "titleSuggest": "14",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_021.md",
+        "xhtml": "lady_carneval_021.xhtml"
+      },
+      {
+        "titleSuggest": "15",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_022.md",
+        "xhtml": "lady_carneval_022.xhtml"
+      },
+      {
+        "titleSuggest": "16",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_023.md",
+        "xhtml": "lady_carneval_023.xhtml"
+      },
+      {
+        "titleSuggest": "17",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_024.md",
+        "xhtml": "lady_carneval_024.xhtml"
+      },
+      {
+        "titleSuggest": "18",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_025.md",
+        "xhtml": "lady_carneval_025.xhtml"
+      },
+      {
+        "titleSuggest": "19",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_026.md",
+        "xhtml": "lady_carneval_026.xhtml"
+      },
+      {
+        "titleSuggest": "TŘETÍ ČÁST",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_027.md",
+        "xhtml": "lady_carneval_027.xhtml"
+      },
+      {
+        "titleSuggest": "20",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_028.md",
+        "xhtml": "lady_carneval_028.xhtml"
+      },
+      {
+        "titleSuggest": "21",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_029.md",
+        "xhtml": "lady_carneval_029.xhtml"
+      },
+      {
+        "titleSuggest": "22",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_030.md",
+        "xhtml": "lady_carneval_030.xhtml"
+      },
+      {
+        "titleSuggest": "23",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_031.md",
+        "xhtml": "lady_carneval_031.xhtml"
+      },
+      {
+        "titleSuggest": "24",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_032.md",
+        "xhtml": "lady_carneval_032.xhtml"
+      },
+      {
+        "titleSuggest": "25",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_033.md",
+        "xhtml": "lady_carneval_033.xhtml"
+      },
+      {
+        "titleSuggest": "26",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_034.md",
+        "xhtml": "lady_carneval_034.xhtml"
+      },
+      {
+        "titleSuggest": "27",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_035.md",
+        "xhtml": "lady_carneval_035.xhtml"
+      },
+      {
+        "titleSuggest": "ČTVRTÁ ČÁST",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_036.md",
+        "xhtml": "lady_carneval_036.xhtml"
+      },
+      {
+        "titleSuggest": "28",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_037.md",
+        "xhtml": "lady_carneval_037.xhtml"
+      },
+      {
+        "titleSuggest": "29",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_038.md",
+        "xhtml": "lady_carneval_038.xhtml"
+      },
+      {
+        "titleSuggest": "30",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_039.md",
+        "xhtml": "lady_carneval_039.xhtml"
+      },
+      {
+        "titleSuggest": "31",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_040.md",
+        "xhtml": "lady_carneval_040.xhtml"
+      },
+      {
+        "titleSuggest": "32",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_041.md",
+        "xhtml": "lady_carneval_041.xhtml"
+      },
+      {
+        "titleSuggest": "33",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_042.md",
+        "xhtml": "lady_carneval_042.xhtml"
+      },
+      {
+        "titleSuggest": "34",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_043.md",
+        "xhtml": "lady_carneval_043.xhtml"
+      },
+      {
+        "titleSuggest": "35",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_044.md",
+        "xhtml": "lady_carneval_044.xhtml"
+      },
+      {
+        "titleSuggest": "PÁTÁ ČÁST",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_045.md",
+        "xhtml": "lady_carneval_045.xhtml"
+      },
+      {
+        "titleSuggest": "36",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_046.md",
+        "xhtml": "lady_carneval_046.xhtml"
+      },
+      {
+        "titleSuggest": "37",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_047.md",
+        "xhtml": "lady_carneval_047.xhtml"
+      },
+      {
+        "titleSuggest": "38",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_048.md",
+        "xhtml": "lady_carneval_048.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_049.md",
+        "xhtml": "lady_carneval_049.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "lady_carneval_050.md",
+        "xhtml": "lady_carneval_050.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/image001.png"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_lady_carneval.jpg"
+      },
+      {
+        "type": "image/png",
+        "href": "OEBPS/Images/upoutavka_eknihy.png"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "CharOverride-2",
+      "CharOverride-3",
+      "HorizontalRule-1",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_dopis_podpis",
+      "MLP_dopis_podpis_-I-",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_pozn_pod_carou",
+      "MLP_seznam_-0-0-",
+      "MLP_seznam_-0-6-",
+      "MLP_seznam_dalsi_odstavce",
+      "MLP_text",
+      "MLP_text_-0-12-",
+      "MLP_text_-I-",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_text_bez1radku_-I-",
+      "MLP_text_bez1radku_-I-_-12-0-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_uroven1_cast",
+      "MLP_uroven2_kapitola",
+      "MLP_verse",
+      "MLP_znak_kurziva_11b",
+      "ParaOverride-1",
+      "ParaOverride-3",
+      "Z-kladn--textový-r-meček",
+      "_idFootnote",
+      "_idFootnoteAnchor",
+      "_idFootnoteLink",
+      "_idFootnotes",
+      "_idGenCharOverride-1",
+      "_idGenColorInherit",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "kratochvil-lady-carneval"
+    },
+    "generatedAt": 1652420759959
+  }
+}

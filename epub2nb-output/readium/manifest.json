@@ -1,0 +1,429 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Lady Carneval",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Jiří Kratochvil",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-05-19T00:00:00.000Z",
+    "published": "2021-05-19T05:48:03.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lady_carneval_050.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/image001.png"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/obalka_lady_carneval.jpg"
+    },
+    {
+      "type": "image/png",
+      "href": "OEBPS/Images/upoutavka_eknihy.png"
+    }
+  ],
+  "toc": [
+    {
+      "title": "PRVNÍ ČÁST",
+      "children": [
+        {
+          "title": "1",
+          "href": "OEBPS/Text/lady_carneval_007.xhtml#_idParaDest-2"
+        },
+        {
+          "title": "2",
+          "href": "OEBPS/Text/lady_carneval_008.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "3",
+          "href": "OEBPS/Text/lady_carneval_009.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "4",
+          "href": "OEBPS/Text/lady_carneval_010.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "5",
+          "href": "OEBPS/Text/lady_carneval_011.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "6",
+          "href": "OEBPS/Text/lady_carneval_012.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "7",
+          "href": "OEBPS/Text/lady_carneval_013.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "8",
+          "href": "OEBPS/Text/lady_carneval_014.xhtml#_idParaDest-9"
+        },
+        {
+          "title": "9",
+          "href": "OEBPS/Text/lady_carneval_015.xhtml#_idParaDest-10"
+        },
+        {
+          "title": "10",
+          "href": "OEBPS/Text/lady_carneval_016.xhtml#_idParaDest-11"
+        },
+        {
+          "title": "11",
+          "href": "OEBPS/Text/lady_carneval_017.xhtml#_idParaDest-12"
+        }
+      ],
+      "href": "OEBPS/Text/lady_carneval_006.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "DRUHÁ ČÁST",
+      "children": [
+        {
+          "title": "12",
+          "href": "OEBPS/Text/lady_carneval_019.xhtml#_idParaDest-14"
+        },
+        {
+          "title": "13",
+          "href": "OEBPS/Text/lady_carneval_020.xhtml#_idParaDest-15"
+        },
+        {
+          "title": "14",
+          "href": "OEBPS/Text/lady_carneval_021.xhtml#_idParaDest-16"
+        },
+        {
+          "title": "15",
+          "href": "OEBPS/Text/lady_carneval_022.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "16",
+          "href": "OEBPS/Text/lady_carneval_023.xhtml#_idParaDest-18"
+        },
+        {
+          "title": "17",
+          "href": "OEBPS/Text/lady_carneval_024.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "18",
+          "href": "OEBPS/Text/lady_carneval_025.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "19",
+          "href": "OEBPS/Text/lady_carneval_026.xhtml#_idParaDest-21"
+        }
+      ],
+      "href": "OEBPS/Text/lady_carneval_018.xhtml#_idParaDest-13"
+    },
+    {
+      "title": "TŘETÍ ČÁST",
+      "children": [
+        {
+          "title": "20",
+          "href": "OEBPS/Text/lady_carneval_028.xhtml#_idParaDest-23"
+        },
+        {
+          "title": "21",
+          "href": "OEBPS/Text/lady_carneval_029.xhtml#_idParaDest-24"
+        },
+        {
+          "title": "22",
+          "href": "OEBPS/Text/lady_carneval_030.xhtml#_idParaDest-25"
+        },
+        {
+          "title": "23",
+          "href": "OEBPS/Text/lady_carneval_031.xhtml#_idParaDest-26"
+        },
+        {
+          "title": "24",
+          "href": "OEBPS/Text/lady_carneval_032.xhtml#_idParaDest-27"
+        },
+        {
+          "title": "25",
+          "href": "OEBPS/Text/lady_carneval_033.xhtml#_idParaDest-28"
+        },
+        {
+          "title": "26",
+          "href": "OEBPS/Text/lady_carneval_034.xhtml#_idParaDest-29"
+        },
+        {
+          "title": "27",
+          "href": "OEBPS/Text/lady_carneval_035.xhtml#_idParaDest-30"
+        }
+      ],
+      "href": "OEBPS/Text/lady_carneval_027.xhtml#_idParaDest-22"
+    },
+    {
+      "title": "ČTVRTÁ ČÁST",
+      "children": [
+        {
+          "title": "28",
+          "href": "OEBPS/Text/lady_carneval_037.xhtml#_idParaDest-32"
+        },
+        {
+          "title": "29",
+          "href": "OEBPS/Text/lady_carneval_038.xhtml#_idParaDest-33"
+        },
+        {
+          "title": "30",
+          "href": "OEBPS/Text/lady_carneval_039.xhtml#_idParaDest-34"
+        },
+        {
+          "title": "31",
+          "href": "OEBPS/Text/lady_carneval_040.xhtml#_idParaDest-35"
+        },
+        {
+          "title": "32",
+          "href": "OEBPS/Text/lady_carneval_041.xhtml#_idParaDest-36"
+        },
+        {
+          "title": "33",
+          "href": "OEBPS/Text/lady_carneval_042.xhtml#_idParaDest-37"
+        },
+        {
+          "title": "34",
+          "href": "OEBPS/Text/lady_carneval_043.xhtml#_idParaDest-38"
+        },
+        {
+          "title": "35",
+          "href": "OEBPS/Text/lady_carneval_044.xhtml#_idParaDest-39"
+        }
+      ],
+      "href": "OEBPS/Text/lady_carneval_036.xhtml#_idParaDest-31"
+    },
+    {
+      "title": "PÁTÁ ČÁST",
+      "children": [
+        {
+          "title": "36",
+          "href": "OEBPS/Text/lady_carneval_046.xhtml#_idParaDest-41"
+        },
+        {
+          "title": "37",
+          "href": "OEBPS/Text/lady_carneval_047.xhtml#_idParaDest-42"
+        },
+        {
+          "title": "38",
+          "href": "OEBPS/Text/lady_carneval_048.xhtml#_idParaDest-43"
+        }
+      ],
+      "href": "OEBPS/Text/lady_carneval_045.xhtml#_idParaDest-40"
+    }
+  ]
+}
