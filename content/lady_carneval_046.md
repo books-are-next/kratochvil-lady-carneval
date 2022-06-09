@@ -3,8 +3,6 @@ title: '36'
 contentType: prose
 ---
 
-  
-
 Někdo zaklepal na dveře, na nichž viselo výstražné _Neklepejte!_, a sestřička (Marta Klímová) šla nahlédnout do čekárny a vrátila se a chtěla něco říct, ale primář (Ludvík Nebesář) právě telefonoval a zvedl proti ní otevřenou dlaň, aby ho teď nerušila, a pokračoval do mobilu:
 
 „… uvolníš chrupavku nahoře a vpředu od měkkých částí nosního hřbetu a od kolumely… neříkám to moc rychle?… a teď pozor, v zadní části si ji pak uvolníš tak, že si z ní vykrouhneš v místě vybočení anebo nějak prostě těsně před ním svislý proužek chrupavky šířky, no asi tři milimetry, však to sám uvidíš, ale musíš přitom zachovat perichondrium a chrupavku a sliznici jedné strany… jasný?… mám to ještě zopakovat?… a teď uvolnění dokončíš protnutím sliznice, perichondria a chrupavky při nosní bázi… ale zase pozor, nesmíš přitom porušit sliznici druhé strany… takže teď máš situaci takovou, že původně vybočená část chrupavky zůstává zavěšena na mukoperichondriu jedné strany… ale, ale, a co sis myslel?… a teprve teď ji můžeš úspěšně reponovat do správného postavení, ve kterém je zajištěna pomocí gumových drénů, zavedených do obou nosních dutin… a máš to, protože ty drény zároveň slouží jako dlahy a současně umožňují dýchání nosem… a finis coronat opus… jdeš zítra do aťasu k tomu malíři Zábranskýmu?… je čtvrtek, že… počkej, teď ne, mám tady pacienta… měj se.“

@@ -3,8 +3,6 @@ title: '29'
 contentType: prose
 ---
 
-  
-
 Olga občas mívala pocit, že strávila celé dětství v bezmocných potyčkách se svým otcem. Byl to zuřivý, vzteklý chrapoun, aspoň takhle si ho pamatovala. Takže když pak zemřel na infarkt, nijak to Olgu nepřekvapilo, ale ani nedojalo. Zlé ale bylo, že se Olžina matka podruhé provdala za stejně vzteklého idiota. Tak zdárnou kopii svého chrapounského nebožtíčka musela opravdu hodně pečlivě hledat.
 
 Olžina matka bydlela v Mrákotách, v rodinném domku po svých rodičích, kam Olga kdysi jezdívala na holčičí prázdniny k dědečkovi a babičce. Ale teď ji tam nic nelákalo, protože netoužila po setkání se zdárnou kopií. Avšak tentokrát byl matčin telefonát tak naléhavý a setkání s chrapounským otčímem tak nepravděpodobné (vyrazil se svým kamionem na zahraniční cesty), že Olze nezbylo než slíbit, že se v Mrákotách ukáže.

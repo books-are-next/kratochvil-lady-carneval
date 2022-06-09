@@ -3,8 +3,6 @@ title: '19'
 contentType: prose
 ---
 
-  
-
 Olga si rychle balí dvě tašky, ale zůstane tady spousta jejích věcí, které není s to odnést a pro něž se už nemůže nikdy vrátit.
 
 Před pátou jede z Útěchova přes Soběšice ten nejranější autobus do města a kousek od farmy má zastávku na znamení. V poslední chvíli se Olga ještě vrací pro Porthose, ale marně toho obézního mušketýra hledá po prázdných chodbách.

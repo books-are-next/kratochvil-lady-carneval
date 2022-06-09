@@ -3,8 +3,6 @@ title: '11'
 contentType: prose
 ---
 
-  
-
 Příští den je návštěvní středa.
 
 „Vás bych tady nečekala,“ přiznává Olga.

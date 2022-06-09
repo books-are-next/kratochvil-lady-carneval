@@ -3,8 +3,6 @@ title: '6'
 contentType: prose
 ---
 
-  
-
 Bydlela nedaleko kina Lucerna, ve třetím poschodí činžáku na rohu ulic Veveří a Tábor.
 
 Sotva se vrátila domů, obešla byt a vytáhla v ložnici žaluzie. Pak prošla obývákem na balkon.

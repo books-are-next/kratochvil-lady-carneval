@@ -3,8 +3,6 @@ title: '5'
 contentType: prose
 ---
 
-  
-
 Olga šla domů pěšky, i když to byl pěkný kus cesty. Ale nic ji nehnalo, naopak měla pocit, že čím déle ještě bude mimo své čtyři stěny, tím líp.
 
 Teď zrovna ji rozčilovalo vědomí, že ten pornograf (protože co je ezoterika jiného než pornografie intelektuálů?) jí dával najevo, že ví něco o její bolesti, a chtěl jí strčit prsty do srdce jak do kropenky, ten transcendentní prasák! Všechno měl jistě pečlivě promyšlené: co jí řekne a taky jak to poví. A byl to nepochybně takový univerzální scénář, přizpůsobitelný na rozdílné příchozí, protože nemohl přece předem vědět, kdo se mu tam zrovna dneska objeví. A má v tom scénáři vždycky Sofistikovanou velrybu a Goghovo Zelené žito? A neviditelný kabát? A Olga se zastavila a najednou uprostřed chodníku udělala několik prudkých, ba vzteklých pohybů, jako by si rychle svlékala a shazovala nějaký kabát. A když pak jako by dopadl na zem, ještě ho pak jako by podupala. Zatančila na něm Olžin rituální taneček. Ti, co šli za ní, se polekaně zastavili, a kdosi se dokonce pokřižoval.

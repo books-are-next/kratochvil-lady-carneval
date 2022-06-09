@@ -3,8 +3,6 @@ title: '17'
 contentType: prose
 ---
 
-  
-
 Právě odešel němčinář, co dnes Olgu potýral procvičováním německých konjunktivů (těch gramatických poťouchlin, jež v konverzaci neuplatníš, ale německé noviny si bez nich nepřečteš), když si Silvestr loktem otevřel dveře: nesl totiž plnou náruč nábytkářských katalogů.
 
 „Teď se posaď k tomuhle a vyber si. A co nebude ke koupi, sám vyrobím a doplníme autentickými starožitnými kousky, taky podle tvého výběru.“

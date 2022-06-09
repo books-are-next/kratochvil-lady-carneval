@@ -3,8 +3,6 @@ title: '32'
 contentType: prose
 ---
 
-  
-
 Původní Lukášova představa té svatby byla naprosto komorní, obrazně řečeno: měla to být svatba aranžovaná jen pro „smyčcové kvarteto“ (nevěsta, ženich, dva svědci), a ne pro nějaký mohutný, hlučný „orchestr“ (desítky svatebčanů, kteří se ani navzájem neznají, ale zato už v jistou hodinu do sebe neurvale vrážejí a jdou si, když ne po krcích, tak aspoň po kravatách).
 
 „A co tak někde v dálničním motelu s číšníkem a servírkou co svědky?“ vyzvídala Olga, hledíc ostražitě na Lukáše. Ale ten té narážce očividně nerozuměl a jen cosi zmateně zablekotal. Nakonec se tedy dohodli na kompromisu mezi „kvartetem a orchestrem“ a byla to středně veliká svatba na zahradě za Lukášovým domem. (A ten, kdo mi tenhle příběh vyprávěl – jednoho večera na konci léta 2001 – vylovil teď malou stříbrnou lžičku s dlouhou rukojetí, kterou prý na té svatbě ukradl jako corpus delicti celé té dávné historie. A když jsem si směl lžičku prohlédnout, zase ji rychle spustil do kapsy.)

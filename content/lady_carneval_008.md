@@ -3,8 +3,6 @@ title: '2'
 contentType: prose
 ---
 
-  
-
 Olga byla zástupkyní šéfredaktora Brněnského kurýra, deníku, který se hned po sametové revoluci změnil (nebo spíš pokusil změnit) z regionálního komunistického plátku na přísně pravicový list, jenž se rozhodl provést ozdravnou očistu socialismem zavšiveného Brna.
 
 Hned na začátku týdne si Olga všimla, že se jí šéfredaktor chystá cosi důležitého říct, a taky toho, že mu to přece jenom působí jisté potíže. Čtyři roky tady byla primadonou a inženýr Žluk si považoval za čest, že smí být jejím nadřízeným. A tak přestože byl vydrezírován v obratech na čtyráku, nebylo teď pro něho snadné nakopnout Olgu do zadku. Úcta k její nádherné zadnici mu byla příliš dlouho vštěpována. Nemluvě už o tom, že Olžiným dalším přízviskem byla vedle lady Carneval i „prezidentova schovanka“. A taky tahle institucionální úcta byla u inženýra Žluka hluboce zakořeněna. Tudíž není divu, že si to nechal až na závěr týdne, až na páteční poradu.

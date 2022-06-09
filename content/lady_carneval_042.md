@@ -3,8 +3,6 @@ title: '33'
 contentType: prose
 ---
 
-  
-
 Plynuly měsíce a Olga ještě dlouho žila v jakémsi vyčkávavém napětí, ve stále znova se vynořujících a zas mizejících pochybách. Ale nakonec pustila svůj byt na kraji Žabovřesk a přestěhovala se do Hamplovy řečkovické vily a zvolna přivykala novému způsobu života. Klidnému, nevzrušivému, samozřejmému.
 
 Lukáš ji přesvědčoval, aby nechala té nádeničiny v nakladatelství, protože on ji samozřejmě uživí (v chytrých zahraničních akciích jeho majetek stále víc bobtnal). Bránila se, že to nikdy za nádeničinu nepovažovala a že ji ta práce těší.

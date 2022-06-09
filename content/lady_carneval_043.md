@@ -3,8 +3,6 @@ title: '34'
 contentType: prose
 ---
 
-  
-
 Příběh o lady Carneval mám, jak jsem už zmínil, z druhé ruky. Kdosi mi ho vyprávěl.
 
 To bylo takhle.

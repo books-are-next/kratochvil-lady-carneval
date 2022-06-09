@@ -3,8 +3,6 @@ title: '12'
 contentType: prose
 ---
 
-  
-
 Tady na chvíli přeruším vyprávění kratičkým autorským vstupem.
 
 Nuže, někdy začátkem roku 1981 jsem se dost polekal, když jsem najednou na čerstvě napadaném sněhu, ale taky na bílém listu papíru uviděl tenký poletující vlásek. Kdosi z mých známých mi doporučil, abych si zašel za nejlepší brněnskou očařkou, primářkou na očním oddělení II. městské nemocnice (na Kolišti). Řekl mi, že tahle primářka má tak vynikající pověst, že když se v roce 1979 u tehdejšího komunistického prezidenta Husáka zhoršil šedý zákal tak, že na jedno oko už neviděl, vybrali na prezidentskou operaci ze všech očních lékařek v celém socialistickém Československu právě ji. A její lékařské kvality byly tak vysoce ceněny, že si mohla dokonce klást podmínky. I trvala na tom, že bude operovat v Brně, ve svém prostředí. Zašel jsem tedy k té očařce a dozvěděl se, že v mém případě jde o počínající zákal sklivce, který je sice neoperovatelný (ale v Americe se prý už pokoušejí nahradit zakalený rosolovitý sklivec umělým), ale na druhé straně vůbec ne tak nebezpečný. Na prezidentskou operaci jsem se jí samozřejmě neodvážil zeptat.

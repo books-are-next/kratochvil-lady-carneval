@@ -3,8 +3,6 @@ title: '22'
 contentType: prose
 ---
 
-  
-
 „Nemotejte se mi tady,“ poprosil Olgu, „jestli nechcete žrát se mnou prach a roztoče. Uvařte nám zatím dobrej sobotní oběd, pla?“
 
 A tak vykázána ze dvora, vrátila se nahoru a pustila se do naklepávání krůtích řízků, aby si přitom občas odskočila podívat se oknem, jak on naklepává koberce. A ke své hrůze viděla: přestože mu tam přistavila konev vody a přestože ty koberce nezapomínal kropit, pobíhal tam v mračnu prachu. Totiž chvílemi v něm docela mizel a z toho se zas na nějaký čas vynořil jak apoštolové na pražském orloji. A když z mračna vyběhl, sáhl často do bedny s minerálkami a vyžahl láhev a zakoulel očima. A těch koberců byla neuvěřitelná hromada, jako by je nenanosil z Olžina bytu, ale navozil z nějakého arabského velvyslanectví.

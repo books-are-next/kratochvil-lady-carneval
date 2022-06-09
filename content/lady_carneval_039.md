@@ -3,8 +3,6 @@ title: '30'
 contentType: prose
 ---
 
-  
-
 Však uplynul týden a sama se octla velice blízko opravdovému znechucení novinami. A dokonce pocítila, jak se jí zvedá žaludek, kdykoliv jen uvidí novinový kiosk.
 
 „To rozhodně nesmíš tak nechat,“ ozval se Lukáš už ve dveřích. A měl v ruce ten pitomý bulvár. „Poznal jsem se tady nedávno s výborným právníkem. Podáš žalobu, zvedneš jim mandle, vysoudíš milionek. A víš co, pojďme za ním hned!“

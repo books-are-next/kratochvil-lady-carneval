@@ -3,8 +3,6 @@ title: '10'
 contentType: prose
 ---
 
-  
-
 Teď je noc v nemocnici nad velkým městským parkem Lužánky. Okno je pootevřené, protože noc je teplá. Je slyšet ťukání tenisových míčků z nedalekého lužáneckého kurtu. Někdo si ho pronajal od půlnoci do tří ráno (ach ti nouveaux riches, _noví Brňané__,_ neví co roupama), rozsvítil tam reflektory a teď tam s kýmsi pobíhá, a když nadskočí a plácne raketou, docela přitom hekne, hváá!, což by se ve dne ztratilo v hluku městské frekvence, ale tady se to rytmizované hekání donese až k sluchu Olgy. Je pod sedativy a analgetiky, necítí žádnou fyzickou bolest, ale přesto nedokáže spát. Ani si není jista, jestli to bude ještě někdy umět.
 
 Má za sebou rušný den. Lékaři, psycholožka, kriminálka.

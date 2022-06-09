@@ -3,8 +3,6 @@ title: '23'
 contentType: prose
 ---
 
-  
-
 To, co teď nazveme postelovou zpovědnicí, je dosti oblíbeným způsobem rychlého intimního sbližování, kdy se tře nejen sliznice o sliznici, ale i duše o duši a neartikulované steny jsou střídány žádostivostí co nejúplněji a nejzřetelněji se artikulovat. Milostné akty jsou tak prokládány vzájemnou chtivostí co nejrychleji si vypovědět své osudy a tenhle hamburger z tělesné i verbální intimity je tou potravou, jíž se sytí milenci v prvních nocích.
 
 Jenže všechno nasvědčovalo tomu, že Olga toho zneužila. Vždyť svého partnera prakticky už nepustila ke slovu. Určitě si toho byla i vědoma, ale ta její chlípná chamtivost vypovědět se zaráz ze všeho, pojmenovat to a vyslovit, byla už nezadržitelná a nezvládnutelná.

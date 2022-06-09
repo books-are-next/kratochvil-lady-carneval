@@ -3,8 +3,6 @@ title: '4'
 contentType: prose
 ---
 
-  
-
 Ale nešli zas tak daleko. Hned za rohem, na Kobližné, byl nově otevřený podnik, Sofistikovaná velryba, a v něm se už na první pohled snoubil vybraný vkus s noblesním nevkusem.
 
 „V tuhle hodinu tady mám vždycky rezervovaný stůl,“ pravil Silvestr Silvestr a ukázal na stolek vzadu, pod nějakým podlouhlým, úzkým obrazem, který z té dálky od dveří vypadal, jako že zobrazuje dlouhý most překlenující nějaký mořský záliv, jemuž se nejspíš říká mořský chobot. „Funguje to tak,“ pokračoval Silvestr, když rozdávaje úsměvy na všechny strany, procházel s Olgou mezi stoly, „funguje to tak, že ho mám rezervovaný, i když jsem třeba mimo město, což bývá dosti často. I v tom případě mi ho hodinku podrží a pak už uvolní komukoli. K tomu stolku se váže spousta šťastných předností. Jednou je například to, že každý, kdo k němu usedne, je okamžitě obsloužen. A druhou je chvályhodná akustika: není tam slyšet hluk z místnosti, jako kdybyste tam seděla v nějaké zvukové bublině.“

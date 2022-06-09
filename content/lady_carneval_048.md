@@ -3,8 +3,6 @@ title: '38'
 contentType: prose
 ---
 
-  
-
 Také na počátku třetího tisíciletí nakladatelství ULMUS stále ještě prosperovalo. Ale Lukáš Hampl se mu už začal pomalu vzdalovat. Vydrezíroval si už nakladatelský personál tak, že už ho tam nebylo zapotřebí. Většinu týdne pak trávil v Tišnově, kde pod jeho dohledem vznikalo cosi jako skutečná farma, tak trochu podobná tomu, co míval ve Phoenixu. Stříbrňák a Plesnivák už nebyli žádní mladíčci, proto když koupil mladé stádo (vozili mu je do Tišnova v obrovském skříňáku, jenž měl vpředu i vzadu nápis _Achtung!! Pferde!!_), kterému říkal mustangové, držel radši Plesniváka a Stříbrňáka v samostatné ohradě: nebyl si jistý, jak by je přijal vedoucí hřebec mustangů. Česko ovšem není Arizona, takže budoucnost stáda byla zatím ve hvězdách. Ale Lukáš Hampl si s tím nelámal hlavu.
 
 Daleko víc starostí mu působilo rozhodnutí, jestli si má vzít Julii Hedvábnou. Byla přece jenom o dost mladší a on byl teď už příliš bohatý, než aby mohl pominout otázku, jestlipak zájem z druhé strany není motivován jen penězi. Co když na něho měla políčeno a jejich setkání nebylo zdaleka tak náhodné? Ale na druhé straně, když se jí rychle nenaučí důvěřovat, měl by to raději zavčas zabalit. Uvažoval i o tom, že je mu už dvaašedesát a že svatby staříků se mu přece odedávna jevily jako svým způsobem oplzlé. A konečně a za třetí, měl stále ještě pocit, že by to chtělo dál čekat, i když jeho žena byla už nějaký čas prohlášena za nezvěstnou. Posléze se ale rozhodl kvůli Oldříškovi (aspoň se o tom tak ujišťoval), který mámu pořád ještě potřeboval a Julii Hedvábnou by mohl, zdá se, akceptovat.
@@ -27,4 +25,4 @@ Končil se den a v tu zázračnou hodinu lesy pozvolna stoupající k prvním
 
 „V noci má pršet. Půjdu je ustájit. Nechceš jít se mnou?“
 
-Dopsáno v říjnu 2003
+_Dopsáno v říjnu 2003_
