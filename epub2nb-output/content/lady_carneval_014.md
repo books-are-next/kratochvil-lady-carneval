@@ -3,8 +3,6 @@ title: '8'
 contentType: prose
 ---
 
-  
-
 Však Olga byla především rváč. Nahoru se v osmdesátých letech dostala netoliko zásluhou své dívčí krásy a příznivých náhod a příhodných setkání (jak už o tom brzo uslyšíme), ale taky dík své paličatosti. Jako malé holce se jí stalo, že otec jednou večer pravil, že ji za trest zavře na noc do sklepa. Nemyslel to samozřejmě vážně, jenom ji chtěl vystrašit, ale Olga se večer sebrala, a aniž komu co řekla, vzala s sebou dvě huňaté deky a odkráčela. Před půlnocí dostala její matka hysterický záchvat a otec se pokoušel mobilizovat policii, esenbáky, ale ti usoudili, že utekla před pohrůžkou toho trestu (k babičce, k nějaké tetě či kam), a nikoho samozřejmě nenapadlo, že si naopak ten trest šla odsedět. Přestože se ve sklepě strašlivě bála (to šustění v temných koutech), nějak tu noc přečkala při neduživé žárovce a zavrtaná do huňatých dek. Přitom moc dobře věděla, že její otec nemyslel tu pohrůžku vážně, ale stejně tak věděla, že nikdo jí nesmí takhle vyhrožovat, anebo narazí na její úpornou dětskou vůli. A tohle dračí vajíčko v ní pak trpělivě čekalo, až někdo půjde kolem a naťukne skořápku. Odedávna tušila, že zadarmo jí nikdo nic nedá a že ona výjimečná příležitost, na niž čeká, taky nemusí nikdy přijít, ale když už jednou přijde, nesmí se pak nechat jen tak vyhodit ze sedla.
 
 Proto ani teď nepřijala žádnou porážku. A ta její chvilková deprese byla omluvitelná: vždyť ten mrcha osud ji ze zlatého kočáru vykopl do zmoly[1](./resources/undefined), a ještě jí přitom zlámal haksnu. Ale teď už je zas načase postavit se na nohy, obrazně i doslova.
@@ -17,4 +15,4 @@ Bedlivě pozorovala cvrkot kolem a informovala se o vzniku nových nakladatels
 
 * * *
 
-[1](./resources/undefined) Rokle, strž. Pozn. red.
+_[1](./resources/undefined) Rokle, strž. Pozn. red._

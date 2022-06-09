@@ -3,8 +3,6 @@ title: '26'
 contentType: prose
 ---
 
-  
-
 V pondělí si Olga hned ráno pospíšila do Zemské knihovny objednat si u výpůjční služby publikace, které potřebuje ke své redakční práci (v nakladatelství ULMUS teď připravují _Velkou encyklopedii myslivosti_). A když se pak vracela přes parčík na Moravském náměstí, na okamžik zůstala stát a hleděla, jak podzim už oškubal stromy. A jak se tak oddává svému existenciálnímu cvičení, uslyší za sebou klakson a otočí se.
 
 Do parčíku vjíždí vůz Zahradní a technické správy a za ním úklidová četa, nabuzená užuž se vrhnout na ty návěje z listí. Je to sbírka bizarních lidiček, nejmizerněji placení zaměstnanci veřejných služeb. Olga se jim vždy v rozpacích vyhýbala, stejně jako bezdomovcům a žebrákům, a nebyla v tom jen štítivost (za niž se přece jen trochu styděla), nýbrž i jakési ochromující ohromení z toho, že na rubu našeho světa je ještě další, alternativní svět, v němž odnepaměti žijí ti, již jsou podle slov Písma také tvými bližními. Chtěla se tedy i tentokrát co nejrychleji klidit z jejich blízkosti. A pak ho uviděla.

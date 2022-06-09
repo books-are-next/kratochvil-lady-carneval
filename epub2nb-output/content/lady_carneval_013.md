@@ -3,8 +3,6 @@ title: '7'
 contentType: prose
 ---
 
-  
-
 Měla štěstí, páteř nebyla pochroumána, jen ta zlomená noha, šok a lehký otřes mozku. Ležela v Úrazovce na Ponávce, a když se jí ptali, komu mají podat zprávu, pominula maminku, protože ji nechtěla polekat, a najednou už nevěděla o nikom, samozřejmě ne nikomu z Kurýra, takže jí zůstala zas jen ta Lída. A ta se tam objevila už třetího dne a s ní ještě dvě dobré kamarádky, takže Olga mohla konstatovat, že i ten nejhorší národní parchant, pilný spolupracovník Státní bezpečnosti, má pár věrných přátel, co mu z tváře setřou slinu.
 
 „Cože, tak ses přece jenom viděla s hermetikem, s tím okultistou?“ potěšila se Lída.

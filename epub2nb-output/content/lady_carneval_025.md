@@ -3,8 +3,6 @@ title: '18'
 contentType: prose
 ---
 
-  
-
 A tak Olga na soběšické farmě znova osaměla. Totiž zase ve společnosti Králíčka ohnivého. Který ovšem naprosto propadl svým schovávačkám. Takže ho celé dny neviděla. Tady opravdu něco nehraje, ujišťovala se už pokolikáté, a měla dokonce pocit, že teď, co se stala Silvestrovou ženou, se Králíček ohnivý proměnil v kobylinec a sám se nabral na lopatku a rychle odklidil. Tak se stranil její společnosti. A když se nějakým nedopatřením přece jenom potkali, poníženě se nahrbil a tvářil se jak Laurel přistižený Hardym při nějakém darebáckém kousku. Anebo to byla jen maska, pod níž se jí vysmíval? Ale určitě tu bylo nějaké tajemství, do něhož ji nikdo nezasvětil. Však jen co se Silvestr vrátí, vytáhne to z něho.
 
 Prvé dny po Silvestrově odletu do Colomba Olga pilně pracovala. Udělala korekturu jedenáctého, listopadového čísla Hermetika a pro Silvestrovu edici Vertigo přepisovala do počítače (a současné češtiny) zastaralé předválečné překlady některých dosud znovu nevydaných Meyrinkových próz, které měly vyjít pod parafrázujícím názvem _Anděl východního okna__._ A s němčinářem promrskávala německé přípustkové, přací a účinkové věty. Ale taky myslela na to, co jí Silvestr kladl na srdce: „Neseď jen pořád na farmě. Jeď taky do města, scukni se s kamarádkama. Nechtěl bych, aby ses třeba cítila jako zajatkyně. Nikdo si nesmí myslet, že jsem tě tady uvěznil.“

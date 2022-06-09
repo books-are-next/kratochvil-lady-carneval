@@ -3,8 +3,6 @@ title: '31'
 contentType: prose
 ---
 
-  
-
 Ale vyrazili, teprve až se trochu setmělo. A ukázalo se, nejenže se Olga dobře drží v sedle, ale taky kůň ji s potěšením nese. Jen jeho majitele trochu zmátla. Představoval si totiž, že je vytáhne do kopečků a lesíků nad Řečkovicemi, ale Olga měla úplně jiný nápad. A okamžitě se ujala vedení.
 
 „Směl bych vědět, kam jedem? A když tak proboha ne po hlavní třídě!“

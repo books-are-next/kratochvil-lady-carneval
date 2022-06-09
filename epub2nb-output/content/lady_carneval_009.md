@@ -3,8 +3,6 @@ title: '3'
 contentType: prose
 ---
 
-  
-
 V čase, kdy Olga absolvovala svůj náhlý vzestup z oční ambulance k metě úspěšné novinářky (trpělivost: už brzy si o tom povíme), dopustila se taky několika dobrých skutků. A teď se rozhodla jít po stopách jednoho z nich.
 
 V Brně je skoro všechno soustředěno na docela malé ploše, již pak stačí sousedsky obejít. Nedaleko redakce Brněnského kurýra je pasáž Typos s brněnským televizním studiem a z pasáže vyjdete do Beethovenovy ulice, kde zas stojí budova rozhlasu. I když inženýr Žluk pravil, že tohle personální přiškrcování se nepochybně týká i rozhlasu a televize, byla aspoň zvědavá, jak se k její situaci postaví kamarádka, které kdysi pomohla na místo rozhlasové redaktorky.

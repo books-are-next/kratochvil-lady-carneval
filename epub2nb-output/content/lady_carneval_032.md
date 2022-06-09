@@ -3,8 +3,6 @@ title: '24'
 contentType: prose
 ---
 
-  
-
 Filip na Olgu stále víc naléhal, aby to rozhodně nenechala jenom tak a aby o tom, co zjistila na farmě, informovala policajty. Vysvětlila mu, že nemá nejmenší chuť jít někoho udat, „ač to ode mě jako od spolupracovnice bývalé Státní bezpečnosti zajisté čekáš.“
 
 „Neser mě, má milá,“ postěžoval si Filip, „to si snad nezasloužím. Copak se o tebe nestarám jako vlastní máma?“ Ale Olga si povzdechla: „Fakt si neumíš představit, jak by to rozmázli v bulváru? Čtvrt roku žije pod jednou střechou se svými násilníky, nechá se od nich vydržovat a pak je jde prásknout. Lady Carneval, bulvární seriál na pokračování…“

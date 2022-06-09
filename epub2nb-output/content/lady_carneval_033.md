@@ -3,8 +3,6 @@ title: '25'
 contentType: prose
 ---
 
-  
-
 A zase sobotní dopoledne. A zase Olžin byt na rohu Veveří a Tábora. Olga se s Filipem dívá na přímý televizní přenos prezidentovy návštěvy v Brně. A právě chce něco říct v tom smyslu, jaký je to úpadek, když teď dávají přednost koukání na přenos, místo aby byli u toho, a tu Filip vyskočí: „Podívej, vždyť oni teďka jedou po Veveří, prezidentská kolona je teď zrovna pod náma!“ A chce běžet na balkon, ale pak uvidí Olinčin vyděšený obličej a prst mířící na obrazovku:
 
 „Teď tam byl! Králíček ohnivý! Díval se přímo na mě!“

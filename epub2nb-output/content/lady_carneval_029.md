@@ -3,8 +3,6 @@ title: '21'
 contentType: prose
 ---
 
-  
-
 Zásluhou počítačové gramotnosti si Olga našla okamžitě místo, a sice v brněnském nakladatelství ULMUS, které vydávalo vysokoškolské učebnice a odborné publikace. A považovala to jen za jakousi mezistanici, protože mířila zas zpátky do redakce nějakého deníku. Ale zatím nebylo kam spěchat. V Brně zatím nebyl deník nebo časopis, po jehož redakci by tak prahla.
 
 Ověřila si, že už má solidní znalosti němčiny (bodejť by ne, čtvrt roku po patnácti hodinách týdně a s tím nejlepším soukromým učitelem), takže si konečně může přibrat i angličtinu.

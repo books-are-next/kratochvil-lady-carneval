@@ -3,8 +3,6 @@ title: '14'
 contentType: prose
 ---
 
-  
-
 Dávno předtím, než na farmu přivezl Olgu, opatřil si Silvestr Silvestr Králíčka. A když ho poprvé uviděl a hlavně jeho tříbarevnou hlavu (na temeni pruh oranžově červený, nad spánky vybarveno do zlatova a vpředu pruh hnědočervený), bylo hned o jeho jménu _pro domo sua_ rozhodnuto.
 
 „Nebudete se zlobit, když vám budu říkat Králíčku ohnivý?“

@@ -3,8 +3,6 @@ title: '28'
 contentType: prose
 ---
 
-  
-
 Odplynuly prvé dva roky devadesátých let a počáteční krátká eufo­rie už rychle upadla v zapomenutí. Nejenže se ukázalo, že není zas tak snadné osvojit si know-how života v demokracii, ale bylo už taky jasné, že československý stát se rozpadne, stejně jako že se už hnedle roztříští sny bláhových lidiček, po jejichž zádech běží ke slunci milionářů podvodníci a hochštapleři, často zas ti samí prominenti někdejšího režimu. A svoboda se už stala tak samozřejmou, že v očích mnohých zdevalvovala a přibývalo těch, co by zas rádi zpátky do klece.
 
 V prvních měsících roku 1992 to bylo s nakladatelstvím ULMUS tak nahnuté, že to vypadalo, že ho zachrání už jenom zázrak. Mocně totiž podražil papír a tiskárenské služby a s oborovými encyklopediemi, jež se měly přece stát rodinným stříbrem podniku, se roztrhl pytel. Začal je vyrábět kdekdo, sice v nesolidním, ale zato atraktivnějším a hlavně lacinějším provedení. ULMUS směřoval k bankrotu. Však nic překvapivého, protože nakladatelství v té době rychle vznikala a zanikala, stejně jako shopy, butiky, fitcentra, sexcentra, sekáče, cestovky a frcy čili zastavárny. A tak se už Olga zase rozhlížela po redakcích brněnských deníků a časopisů. Ale už před časem o Brně kdosi řekl, že je to pokusná laboratoř, v níž se houfně zkoušejí ty nejšpinavější praktiky, aby se pak třeba výběrově mohly použít i jinde. A Olga se rychle ujistila, že se to bohužel týká i nynějších brněnských redakcí, a rozhodla, že se už nechce brodit v tom kariéristickém bahně, podrážet druhým nohy a zašlapávat jim hlavy do bláta.
@@ -67,9 +65,9 @@ Následujícího dne byla sobota a Olga si ještě hověla v posteli a počí
 
 „To bude mejlka, nic jsem si neobjednala,“ křikla přes zavřené dveře. Ale hoch v livreji vylovil z velkokvětých růží lístek a pozvedl ho ke špehýrce.
 
-Pozvánka na neslužební večeři do Internationalu.
+_Pozvánka na neslužební večeři do Internationalu._
 
-Lukáš s prohryznutou rukou a prokousnutým srdcem.
+_Lukáš s prohryznutou rukou a prokousnutým srdcem._
 
 Olga dala hošíkovi slušný bakšiš, postavila koš v předsíni na lavičku a našla si hned v diáři Lukášovo telefonní číslo. Kupodivu tam byl v tuhle víkendovou ranní hodinu záznamník. Buď si odskočil pro housky a noviny, anebo je ve vaně, anebo právě v jiné dámě. Tím líp, záznamník je vlastně pro její odpověď jak stvořený:
 

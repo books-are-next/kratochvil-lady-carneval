@@ -3,8 +3,6 @@ title: '13'
 contentType: prose
 ---
 
-  
-
 „A už jste se pak nikdy s prezidentem nesetkala?“ chtěl vědět Silvestr Silvestr.
 
 „S prezidentem ne,“ vysvětlila Olga, „ale napsali mi z Prahy, z katedry žurnalistiky. Bylo pak o mě všemožně postaráno, čistě jen formální přijímací pohovor a zajištěné místo na kolejích.“
