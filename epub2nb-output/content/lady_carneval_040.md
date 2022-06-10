@@ -3,6 +3,8 @@ title: '31'
 contentType: prose
 ---
 
+<section>
+
 Ale vyrazili, teprve až se trochu setmělo. A ukázalo se, nejenže se Olga dobře drží v sedle, ale taky kůň ji s potěšením nese. Jen jeho majitele trochu zmátla. Představoval si totiž, že je vytáhne do kopečků a lesíků nad Řečkovicemi, ale Olga měla úplně jiný nápad. A okamžitě se ujala vedení.
 
 „Směl bych vědět, kam jedem? A když tak proboha ne po hlavní třídě!“
@@ -10,6 +12,10 @@ Ale vyrazili, teprve až se trochu setmělo. A ukázalo se, nejenže se Olga do
 Olga totiž zamířila zpátky ke středu města, do Králova Pole. Ale vzala to hezky horem okolo fotbalového stadionu a sportovní haly a pak po Vodově ulici a dolů po Skácelově na Slovanské náměstí. A Lukáš ji chtě nechtě následoval.
 
 Slovanské náměstí už bylo v tuhle hodinu vyprázdněné a těch několik osamělých chodců se po nich překvapeně ohlédlo. Klapot kopýtek a pásy stínů a světel mezi stromy a pouličními lucernami. Olga zamířila k rožáku při vyústění Charvátské ulice.
+
+</section>
+
+<section>
 
 Na špatně osvětleném domovním štítě reklamní obraz, který už důvěrně známe. Ale od té doby, co jsme ho viděli naposledy, ztratil svou nepochybnou důstojnost, zčásti se oloupal, zčásti vybledl.
 
@@ -32,3 +38,5 @@ Přestože se důkladně osprchovali, byli stále ještě cítit jak staří ko�
 Lukášova ložnice byla, jak ostatně zavčas upozornil (vzpomeňme si), nacpána uskladněným nábytkem a velkými, dosud neotevřenými bednami a krabicemi. Takže postel byla vsunuta do tak uzounké uličky mezi vysokými skříněmi, až z toho Olga pocítila zlou klaustrofobii a tiše zaklela: „Do prdele!“
 
 „Však ano,“ pravil Lukáš Hampl a něžně si ji otočil.
+
+</section>

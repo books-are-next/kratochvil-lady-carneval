@@ -3,6 +3,8 @@ title: '28'
 contentType: prose
 ---
 
+<section>
+
 Odplynuly prvé dva roky devadesátých let a počáteční krátká eufo­rie už rychle upadla v zapomenutí. Nejenže se ukázalo, že není zas tak snadné osvojit si know-how života v demokracii, ale bylo už taky jasné, že československý stát se rozpadne, stejně jako že se už hnedle roztříští sny bláhových lidiček, po jejichž zádech běží ke slunci milionářů podvodníci a hochštapleři, často zas ti samí prominenti někdejšího režimu. A svoboda se už stala tak samozřejmou, že v očích mnohých zdevalvovala a přibývalo těch, co by zas rádi zpátky do klece.
 
 V prvních měsících roku 1992 to bylo s nakladatelstvím ULMUS tak nahnuté, že to vypadalo, že ho zachrání už jenom zázrak. Mocně totiž podražil papír a tiskárenské služby a s oborovými encyklopediemi, jež se měly přece stát rodinným stříbrem podniku, se roztrhl pytel. Začal je vyrábět kdekdo, sice v nesolidním, ale zato atraktivnějším a hlavně lacinějším provedení. ULMUS směřoval k bankrotu. Však nic překvapivého, protože nakladatelství v té době rychle vznikala a zanikala, stejně jako shopy, butiky, fitcentra, sexcentra, sekáče, cestovky a frcy čili zastavárny. A tak se už Olga zase rozhlížela po redakcích brněnských deníků a časopisů. Ale už před časem o Brně kdosi řekl, že je to pokusná laboratoř, v níž se houfně zkoušejí ty nejšpinavější praktiky, aby se pak třeba výběrově mohly použít i jinde. A Olga se rychle ujistila, že se to bohužel týká i nynějších brněnských redakcí, a rozhodla, že se už nechce brodit v tom kariéristickém bahně, podrážet druhým nohy a zašlapávat jim hlavy do bláta.
@@ -11,9 +13,17 @@ Vzpomněl jsem si na Olgu, když jsem znova četl dávný exilový rozhovor s L
 
 A pak se stal ten neočekávaný zázrak.
 
+</section>
+
+<section>
+
 Majitel a ředitel nakladatelství ULMUS Jiří Daněk se náhodně setkal s posrpnovým emigrantem Lukášem Hamplem, jenž měl značnou zkušenost z amerického nakladatelského a knižního provozu. Postavil zas ULMUS na nohy tím, že rozšířil jeho záběr. „Odněkud musíme brát, abychom pak mohli investovat do náročnějších projektů. Tady není namístě žádný nakladatelský purismus.“ Což bylo už dávno jasné i Jiřímu Daňkovi, jenže ten nevěděl, jak v té záplavě soukromých nakladatelství přijít ještě k nějakým volným úspěšným titulům.
 
 Hampl se šikovně porozhlédl po české nakladatelské a autorské scéně a vynašel si hned několik slepic, které stále ještě snášely zlatá vejce, a rozjel se za nimi osobně a s nabídkami, jež bylo těžké odmítnout, už třeba jen z toho důvodu, že ostatní nakladatele, ty, co měli zkušenosti jen s někdejším socialistickým provozem, tyhle nabídky prostě nenapadly. Dále Hampl vysypal z rukávu atraktivní témata literatury faktu, to, co teď frčí na západoevropském knižním trhu, a s pomocí moudrých hlav vytipoval autory, kteří by je dokázali zpracovat. A taky za nimi se rozjel s nabídkami. A na jednu z těch výprav si vzal s sebou Olgu. Byl si totiž jistý tím, že v tandemu prošedivělý nakladatelský playboy a krásná nakladatelská najáda se budou bestselleroví autoři a autorky líp lovit.
+
+</section>
+
+<section>
 
 A po jednom z takových úspěšných dní seděli v restauraci pražského hotelu Bruncvík a při dobré večeři probírali ještě, na koho si políčí zítra. A tady je třeba říct, že když Lukáš Hampl po sovětské invazi emigroval, bylo mu devětadvacet, a když teď seděl s Olgou (nad canard rouennais a dobře vychlazeným budvarem) už třiapadesát, ale pořád ještě kocour de luxe, jehož stříbřející vlasy mile korespondovaly s jeho vytříbeným smyslem pro knižní bestsellery, lahodnou krmi i ženskou krásu.
 
@@ -39,6 +49,10 @@ Olga chtěla rychle něco říct (no jasně, ikona spolupracovnice Státní bezp
 
 „O. K., voláte mě k pořádku. Podívejme se tedy, co nás zítra ještě čeká. Tak především, stále ještě hledáme autora, který by dokázal solidně zpracovat osudy naší šlechty po roce 1939. Jak jsme si už řekli, neměl by to být akademik, který by nám z toho vyrobil obsáhlou, ale nudnou bilanci. Vrátil bych se k vašemu včerejšímu nápadu, že bychom spřáhli dva autory, historika a mladého, ctižádostivého, ale dosud nezavedeného beletristu. A teď jde jen o to, aby se ti dva neservali jak psi, aby si nenamlátili držky.“
 
+</section>
+
+<section>
+
 O dvě hodiny později se Olga přes zamčené dveře svého hotelového pokoje zeptala: „Kdo je tam?“
 
 „Nezlobte se, dostal jsem ještě nápad.“
@@ -55,11 +69,19 @@ Teprve až se vraceli z Prahy, přišla na to krátce řeč. Hampl ovázanou ru
 
 „Ahoj, Lukáši. Olga.“ A podala jeho neprokousnuté svou a bylo to.
 
+</section>
+
+<section>
+
 Doma ji čekal dopis z týdeníku Květy, kam před čtvrtrokem poslala nějaké své fejetony. Omlouvali se, že odpovídají teprve teď, ale že zato zcela vážně uvažují o pravidelném sloupku pro ni. Jmenoval by se _O_ _čem sní lady Carneval__._
 
 „Do prdele,“ řekla Olga tak nahlas, až se puritánský Porthos zvedl a posunul o pár metrů dál. Pak dopis roztrhala do koše.
 
 O dva dny později uviděla v kiosku časopis Hermetik a zjistila, že je to prvé číslo v nové redakci. Plné pitomoučkých horoskopů a nehorázných blbostí, mezi nimiž tím nejsolidnějším materiálem byl jakýsi lidový výklad Nostradama, končící ohlášením příchodu Velkého krále hrůzy. A pak snad ještě rádoby historická studie o úloze traviček v dějinách. Hermetik s novou redakcí poklesl na tu nejobludnější bulvární úroveň. A v tiráži si Olga přečetla, že ho teď vydává Společnost pro odhalování pozemských a vesmírných záhad, řízená doktorem Théophilem Barlantem. A ze všech těch příšerností Olga usoudila, že Silvestr opravdu vzal roha: narychlo prodal svůj časopis a musí být teď kdesi hodně, ale hodně daleko.
+
+</section>
+
+<section>
 
 Následujícího dne byla sobota a Olga si ještě hověla v posteli a počítala mušince na stropě (budeš tady muset, holka, vymalovat, jak dlouho to chceš ještě odkládat?) a dělila je každoroční konstantou slunečních erupcí, když někdo zazvonil. Rozmrzele vlezla do županu a špehýrkou uviděla olivrejovaného dodavatele. Držel květinový koš.
 
@@ -74,3 +96,5 @@ Olga dala hošíkovi slušný bakšiš, postavila koš v předsíni na lavičku
 „Hezké ráno, Lukáši. Děkuji za ten nádherný koš, který si vůbec nezasloužím. Bohužel budu muset odmítnout nabídku na neslužební večeři. Jsem stále ještě neoblomná jeptiška. Za své logo přijala jsem tu klášterní ikonu. Prosím, nezlob se. Ještě jednou díky. Olga.“
 
 A tím je to, řekla si, jednou provždy vyřízeno.
+
+</section>

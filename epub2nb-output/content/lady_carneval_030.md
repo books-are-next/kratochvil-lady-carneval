@@ -3,11 +3,17 @@ title: '22'
 contentType: prose
 ---
 
+<section>
+
 „Nemotejte se mi tady,“ poprosil Olgu, „jestli nechcete žrát se mnou prach a roztoče. Uvařte nám zatím dobrej sobotní oběd, pla?“
 
 A tak vykázána ze dvora, vrátila se nahoru a pustila se do naklepávání krůtích řízků, aby si přitom občas odskočila podívat se oknem, jak on naklepává koberce. A ke své hrůze viděla: přestože mu tam přistavila konev vody a přestože ty koberce nezapomínal kropit, pobíhal tam v mračnu prachu. Totiž chvílemi v něm docela mizel a z toho se zas na nějaký čas vynořil jak apoštolové na pražském orloji. A když z mračna vyběhl, sáhl často do bedny s minerálkami a vyžahl láhev a zakoulel očima. A těch koberců byla neuvěřitelná hromada, jako by je nenanosil z Olžina bytu, ale navozil z nějakého arabského velvyslanectví.
 
 Postupně se otvírala a zas rychle zavírala okna do dvora a nájemníci častovali Zdeněčka nevybíravými nadávkami. Dnes totiž většina lidí soudí, že koberce se už neklepají, nýbrž jen luxují, a že ta všelijaká a už většinou zrezivělá klepadla, nacházející se dosud na dvorcích anebo ve čtvercových, ale i obdélníkových atriích starších domovních bloků, jsou už jen chátrajícími pomníčky zašlých dob nepohodlí a domácké dřiny. Pravda je ovšem ta, že i luxované koberce je třeba čas od času podrobit těmhle klasickým technikám, protože struktura koberců je už prostě taková, že jedině souběhem těch dvou už na první pohled tak protikladných postupů lze z ní vystrnadit prach i roztoče.
+
+</section>
+
+<section>
 
 Vrátil se ze dvora, jako by právě vyfáral z dolů: oční bělma mu jen svítila. Natahal nahoru vyprášené koberce, ale dřív než je půjde položit do místností, rozhodl se, že si napřed trochu oddechne. S úlevou dosedl na bednu v předsíni. Ale to už přiběhla z kuchyně, a když ho tam zblízka uviděla, tak špinavého a zbitého jak vojáka, co se právě vrátil z kruté řeže, dost se lekla, protože měla hned pocit, že ještě než se mu stačila pořádně omluvit za to, jak sprostě se k němu tenkrát v redakci chovala, už ho zas stačila zneužít.
 
@@ -26,3 +32,5 @@ Chvíli mlčel, díval se na ni a ťukal nehtem do skleničky. Pak se zeptal: �
 „Tic tac ne, nabídl mi žvýkačku, Orbit bez cukru. Počkej, chceš říct, že v tom byla nějaká droga? A že všechno, co jsem pak na dálnici zažila, byla jen nějaká psychedelie? Něco jako psilocybinová halucinace?“
 
 „Vidím, že máš nastudováno. No odborníci na výzkum vědomí mluví spíš o vizích, o organizovaných vizuálních informacích.“
+
+</section>

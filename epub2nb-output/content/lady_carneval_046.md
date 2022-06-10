@@ -3,6 +3,8 @@ title: '36'
 contentType: prose
 ---
 
+<section>
+
 Někdo zaklepal na dveře, na nichž viselo výstražné _Neklepejte!_, a sestřička (Marta Klímová) šla nahlédnout do čekárny a vrátila se a chtěla něco říct, ale primář (Ludvík Nebesář) právě telefonoval a zvedl proti ní otevřenou dlaň, aby ho teď nerušila, a pokračoval do mobilu:
 
 „… uvolníš chrupavku nahoře a vpředu od měkkých částí nosního hřbetu a od kolumely… neříkám to moc rychle?… a teď pozor, v zadní části si ji pak uvolníš tak, že si z ní vykrouhneš v místě vybočení anebo nějak prostě těsně před ním svislý proužek chrupavky šířky, no asi tři milimetry, však to sám uvidíš, ale musíš přitom zachovat perichondrium a chrupavku a sliznici jedné strany… jasný?… mám to ještě zopakovat?… a teď uvolnění dokončíš protnutím sliznice, perichondria a chrupavky při nosní bázi… ale zase pozor, nesmíš přitom porušit sliznici druhé strany… takže teď máš situaci takovou, že původně vybočená část chrupavky zůstává zavěšena na mukoperichondriu jedné strany… ale, ale, a co sis myslel?… a teprve teď ji můžeš úspěšně reponovat do správného postavení, ve kterém je zajištěna pomocí gumových drénů, zavedených do obou nosních dutin… a máš to, protože ty drény zároveň slouží jako dlahy a současně umožňují dýchání nosem… a finis coronat opus… jdeš zítra do aťasu k tomu malíři Zábranskýmu?… je čtvrtek, že… počkej, teď ne, mám tady pacienta… měj se.“
@@ -10,6 +12,10 @@ Někdo zaklepal na dveře, na nichž viselo výstražné _Neklepejte!_, a sest�
 A Nebesář odloží mobil, ale ještě pořád drží proti sestřičce rozevřenou dlaň a teď kývne na pacienta a posadí se k počítači a občas zvedne hlavu a na něco se pacienta ptá a pak mu vytiskne lísteček s informacemi k chystané operaci žlučníku. Pacient odkráčí a teprve teď dostane sestřička příležitost oznámit, že tam čeká inženýr Čermák.
 
 „Svatá lady Diano,“ sténá primář, „oni nechajou čekat náměstka primátora!“ Sestřička se rozběhne otevřít dveře do čekárny a primář jde vstříc inženýru Zbyňku Čermákovi, který právě vklouzl do velkých bílých návleků.
+
+</section>
+
+<section>
 
 „Promiň, měl jsem tady komplikovanýho pacienta. Počkej, cože, ty zítra letíš na Krétu? Moc se omlouvám, takhle to zas nespěchalo. Nemůžu tě přece zdržovat.“
 
@@ -20,6 +26,10 @@ A Nebesář odloží mobil, ale ještě pořád drží proti sestřičce rozev�
 „Nějakou reprodukci Gogha.“
 
 „A kdybyste nesehnala Gogha, tak třeba nějaký ty Monetovy Lekníny, ne? Však vy si poradíte. A ještě bych vás poprosil, kdybyste to taky hned zanesla paspartovat.“
+
+</section>
+
+<section>
 
 Primář vyplachuje skleničky. „Už jsem dlouho neviděl Zdenu. Pošli ji pak za mnou. Až se vrátíte. Kdy byla naposledy na kontrole a ke komu teď chodí?“
 
@@ -45,6 +55,10 @@ A náměstek se překvapeně dívá na Nebesáře, jak se teď zvedá a neklid
 
 „Když známe příčinu, tak snad. Říkám snad. Paměť se samozřejmě může taky vrátit sama a zničehonic. Ale to jen v hollywoodských filmech.“
 
+</section>
+
+<section>
+
 Náměstek otáčel hlavou za primářem zvolna kroužícím po místnosti, a když bylo třeba, tak i trochu pootočil židlí, na níž seděl. „Jestli tomu správně rozumím, tak pro ni potřebujete nějakou novou identitu, je to tak? Teda to, co se například dává svědkům v procesech s mafií. Potřebujete pro ni novou totožnost, nový životní příběh. A proto ses obrátil na mě, na magistrát. Ale teď mě napadá, že to může být taky nebezpečný. Co když dáme novou identitu někomu… no nějaký teroristce. Sám říkals, jako by tu měla nějaké poslání, nějaký úkol, že? A ta její španělština…“
 
 „To myslíš, že ji jako Fidel Castro poslal připravit atentát na Václava Havla?“
@@ -67,4 +81,10 @@ I náměstek se teď zvedá ze židle a taky začíná – roztomilým kachn�
 
 „Ale přece název naší akce. Bourec morušový se latinsky řekne Bombyx mori. Jednou ti o tom povím. Jako kluk jsem se pokoušel bource pěstovat.“
 
+</section>
+
+<section>
+
 Když příštího dne letadlo chvíli kroužilo nad Saronským zálivem, než mohlo přistát v Aténách, vybavilo se Zbyňkovi, jak předešlého dne intenzivně kroužili v primářově ordinaci, jak tam, ratata bum, přenádherně kroužili, a okamžitě věděl, že i tahle dovolená bude stát zase za pendrek, protože ji stráví usilovným přemýšlením nad tím, co mu Ludvíček Nebesáříček nadrobil.
+
+</section>

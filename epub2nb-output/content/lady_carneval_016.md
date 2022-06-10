@@ -3,6 +3,8 @@ title: '10'
 contentType: prose
 ---
 
+<section>
+
 Teď je noc v nemocnici nad velkým městským parkem Lužánky. Okno je pootevřené, protože noc je teplá. Je slyšet ťukání tenisových míčků z nedalekého lužáneckého kurtu. Někdo si ho pronajal od půlnoci do tří ráno (ach ti nouveaux riches, _noví Brňané__,_ neví co roupama), rozsvítil tam reflektory a teď tam s kýmsi pobíhá, a když nadskočí a plácne raketou, docela přitom hekne, hváá!, což by se ve dne ztratilo v hluku městské frekvence, ale tady se to rytmizované hekání donese až k sluchu Olgy. Je pod sedativy a analgetiky, necítí žádnou fyzickou bolest, ale přesto nedokáže spát. Ani si není jista, jestli to bude ještě někdy umět.
 
 Má za sebou rušný den. Lékaři, psycholožka, kriminálka.
@@ -12,6 +14,10 @@ Má za sebou rušný den. Lékaři, psycholožka, kriminálka.
 „To nemůžu. Nevím, jak bych to řekla… jako by byli bez ksichtu.“
 
 „Jo, to se stává, šok. Ale ty obličeje se vám časem vynoří. Možná už zítra. Možná až za půl roku. Ale pak se nám hned ozvěte.“
+
+</section>
+
+<section>
 
 Jsou dvě hodiny v noci. Z Lužánek je ještě stále slyšet ťukání už čím dál lenivějších míčků. Olga naslouchá zvukům z nočního kurtu a pořád se jí nedaří usnout. Ale už je to tady: najednou se začíná cosi zvláštního dít. Najednou vidí samu sebe. Totiž takhle – jako by tam ležela a zároveň se nad sebou vznášela. Vtělena snad do své na šibeničce zavěšené sádrové nohy?
 
@@ -29,4 +35,10 @@ Nad postelí visí šňůra zvonku. Sotva po ní Olga natáhne ruku, okamžitě 
 
 „Ale to je zbytečný, sestři, žádná angína, to jen něco s hlasivkama.“ Sestra vrtí hlavou a jde pro rohypnol.
 
+</section>
+
+<section>
+
 Dřív než Olga konečně usne, slyší ještě čím dál udýchanější noční hráče. Pořád ještě plácají raketami do míčku a hekají. A hváá…! hváá…! hváá…! hváá…! hváá…! hváá…! hváá…! hváá…! hváá…! hváá…! zní Olze do usínání.
+
+</section>

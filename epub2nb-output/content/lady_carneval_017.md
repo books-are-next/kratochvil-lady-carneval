@@ -3,6 +3,8 @@ title: '11'
 contentType: prose
 ---
 
+<section>
+
 Příští den je návštěvní středa.
 
 „Vás bych tady nečekala,“ přiznává Olga.
@@ -21,6 +23,10 @@ A pak si přitáhl židli, posadil se a promnul si vousy. „Víte, přišel j
 
 Usmála se: „Jste čiperka, pane Silvestře. Beru, ale jedině okamžitě. Půjdu s váma, jen když si mě teď okamžitě odnesete.“
 
+</section>
+
+<section>
+
 Takže půlhodinu měl Silvestr na vyřízení náležitostí a pak si už Olgu snesl v náruči do zaparkované mazdy. A když ji opatrně uložil na zadní sedadlo, trčela její sádrová noha těsně vedle jeho hlavy. A tak když vezl lady Carneval, jel opatrně, přeopatrně, jel jak s hnojem.
 
 „Teď jsem si vzpomněla. Budem muset vzít s sebou Porthose.“
@@ -31,8 +37,14 @@ Takže půlhodinu měl Silvestr na vyřízení náležitostí a pak si už Olgu
 
 Olga podala Silvestrovi Silvestrovi klíče a instruovala ho, co všechno má nahoře udělat (odstavit ledničku a všechny elektrické spotřebiče, zavřít hlavní kohoutek plynu a zjistit, jestli jsou dobře zavřená okna a taky dveře na balkon, a zalít na balkoně petunku, střevičník, oleandr a laskavec a v pokoji filodendrony, tlustici, begonii, mučenku, voskovku, dračinec a fíkusy) a co všechno jí má přinést (sice slíbil, že sem hned v příštích dnech znova zajede a že bude dál zalévat kytky a vybírat poštu a vždycky jí přiveze, co bude zapotřebí, ale i tak toho dnes nabral plný pytel a na pravé rameno si usadil dočista vyhládlého Porthose).
 
+</section>
+
+<section>
+
 Olga čekala v autě, plně zaujata tím, co se to s ní vlastně děje. Klidně se nechá sebrat kdejakým pobudou a odvézt čertvíkam. Její život lze teď rozdělit na čas před Křikem a po Křiku. Po té dnešní noci je už zázračně svobodnou bytostí, lačnou vrhat se do pochybných dobrodružství. Slovem, je z ní lady Dobrodruh.
 
 „Ten váš Porthos má pod čepicí. Hned jak uslyšel o Soběšicích, skočil mi na rameno. Už teď ví, že se tam bude mít jak Pánbů ve Frankrajchu.“
 
 „Ach ty prodejný mušketýre,“ komentovala to Olga a usalašila si Porthose na své sádrové noze.
+
+</section>

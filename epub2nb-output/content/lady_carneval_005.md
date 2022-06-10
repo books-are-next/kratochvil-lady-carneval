@@ -3,11 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
-
-  
-
-  
+<section>
 
 > _Protože člověk vlastně chodí  
 > po velmi tenké čáře.  
@@ -17,3 +13,5 @@ contentType: prose
 
 > — OLDŘICH MIKULÁŠEK,  
 > _Druhý rozhovor bláznů_
+
+</section>

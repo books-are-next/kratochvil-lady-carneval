@@ -3,6 +3,8 @@ title: '16'
 contentType: prose
 ---
 
+<section>
+
 Za celý ten čas, co se už Olga se Silvestrem Silvestrem znala, neukázal jí ten pokoutní mág a nepředvedl žádné ze svých čar a kouzel, buď tím tak lakotí, myslela si, nebo ve skutečnosti vůbec nic neumí, až teď jim najednou doslova zázrakem sehnal dva lístky na daleko dopředu vyprodaný muzikál Cagliostro. Ale když se pak vraceli z Prahy, nadávali oba jak špačci. Muzikál – přestože zrovna úspěšně obíhal svět – byl obludně hloupý. A tak jediné, co jim z toho utkvělo, byla vlezlá sloka z písničky Lucky Bílé, která tam hrála a zpívala Cagliostrovu milenku:
 
 _Vlez na mě, lásko, vlez,  
@@ -12,7 +14,15 @@ a hubičku loudívá._
 
 „Soužití muzikálu s okultismem je nešťastná záležitost, měl jsem to čekat,“ omlouvá se Silvestr Olze a my se zas hned omluvíme čtenářům, neb jsme si vědomi toho, že ta nekonečná noční dálnice z Prahy do Brna a Silvestrovo vědomí povinnosti zůstat za volantem mazdy po celou cestu navýsost bdělý ho nejspíš přivedou k naučné osvětové přednášce, z níž si bohužel budeme muset aspoň co nejstručnější výtah, aspoň drobný digest vyslechnout:
 
+</section>
+
+<section>
+
 „Zlomové okamžiky v dějinách,“ – začal Silvestr svou dálniční přednášku –, „vyvolávají vždycky tak silnou obecnou úzkost (převlečenou napřed za euforii), že lidi se nám pak v celých procesích vydávají za ezoterikou, chtějí najednou co nejrychleji porozumět neporozumitelnému. Iracionalita, která je vždy hnacím motorem dějin, ale pouze v těchhle převratných letech je na nějaký čas nestydatě obnažena, vede pak k tomu, že hermetické nauky zas mocně prosperují. Jenže je to falešná ezoterika. A vůbec se nedá čekat, že by to snad pílilo k nějakému kolektivnímu prozření. Není žádných kolektivních prozření, je jen masová sugesce, která zachvátí davy, takže se pak honí za lživými proroky, charismatickými vůdci. Což je samozřejmě jen nechutný opak prozření. Skutečné prozření má vždycky jen individuální podobu. Faktem ale je, že i k individuálnímu prozření dochází často, právě když se lámou dějiny, a to z toho prostého důvodu, že některými lidmi to holt pořádně smýkne. Půda pod nohama se dá do pohybu a začnou se hromadit pohromy a průsery. A když cosi začne drtit lidi jak olivy, vymáčkne z některých z nich i to prozření. Jenže většina lidí, jak se jich něco takového jen dotkne, propadá hned panice – někteří pak přes noc konvertují, někteří končí v blázincích a někteří páchají sebevraždy. A tady by bylo asi dobré vědět, co to vlastně prozření je, že žene lidi do náručí bizarních náboženských sekt i do svěracích kazajek blázinců. A proč mnozí raději dobrovolně zemřou, než by prozřeli.“
+
+</section>
+
+<section>
 
 Olga už začíná tušit, že tahle přednáška bude z těch všech, které jí dosud Silvestr naservíroval, kterými ji dosud obšťastnil, ta nejdelší. Ani ta prvá z nich, pronesená tenkrát ve Velrybě pod obrazem železničního viaduktu, a ani ty večerní promluvy na soběšické střešní terase tomu nemohou konkurovat, protože cesta z Prahy do Brna i v noci vyleze na dobrých sto čtyřicet minut a hluboká tma prořezávaná z protisměru jen čím dál řidšími reflektory kamionů je ideálním prostorem k rétorskému soustředění a Silvestr Silvestr toho má dnes tolik na srdci.
 
@@ -22,13 +32,25 @@ Však sotva to stačil doříct, když tirák s dlouhým přívěsem, který pr
 
 „Samozřejmě vím, že jsem vám teď neřekl vůbec nic překvapivého, vždyť přece právě vy patříte k těm privilegovaným, kteří měli to výjimečné štěstí, že se jim zaráz navršilo tolik pohrom a katastrof, až ta poslední z nich, ve vašem případě to surové znásilnění v Kočičím žlebu, jež bych rád nazval, pokud vám to nebude proti mysli, třešničkou na dortu, až tedy ta poslední katastrofa prorazila tu nejposlednější z ochranných vrstev, jimiž se přece i vaše duše obezdila před prozřením. Čímž chci – když se ani teď nebudete na mě zlobit – říct, že kdyby se vám nestalo, co se stalo, ten rychlý sled krutých pohrom završený třešničkou na dortu, byla byste ještě pořád zazděná v pohodlné nevědomosti a já bych cítil, jak jste mi daleko. A tak jste musela projít tím kurzem transcendentna, přímo takhle bych to nazval, musela jste jím projít, aby se vaše duše rozsvítila jak stowattová žárovka a konkurovala svou zářící krásou i vašemu pyšnému tělu…“
 
+</section>
+
+<section>
+
 A ještě dlouho, dlouho Silvestr Silvestr mluvil, mluvil, doslova se vykecával a Olga se zvědavě dívala, jak se mu ve světle palubní desky pohybují rty a taky zmítá jazyk, a když zvedl hlas a třeba taky zrychlil tempo, znatelně přitom prskal, až vyprskal celý třpytivý vějíř na předním skle. I ty můj užvaněný rétore, myslela si Olga, jen pověz, co si mám s tebou počít. Však nepočala nic, neboť Silvestr si teď znova porovnal hodinky s ciferníkem u volantu a zaklel. A pak se už ale opravdu na dlouho odmlčel, protože se plně soustředil na pokus objet tu řetězovou havárii cestami mimo dálnici. A měl štěstí, ještě pořád bylo jakžtakž možné vycouvat k nedalekému odpočívadlu. A odtud se už bez potíží dostali na jakousi lesní cestu.
+
+</section>
+
+<section>
 
 Jakkoliv byla Silvestrova mazda speciálně upraveným terénním vozem, jet po stezkách lesní zvěře a právě v těch neblahých nočních hodinách bylo přece jenom dost, jak by řekla Olga, o držku. Ale jestli jako černokněžník nestál asi za moc, orientační smysl měl chválabohu docela vyvinutý a jako teleskop teď dopředu vysunutý. O čemž svědčilo i to, že už za chvíli se hluboko pod nimi objevila dálnice s uvízlou kolonou, ten světelný růženec, vpředu viditelně přetržený. A uviděli taky dva hlídkové vozy a záchranku. Silvestr ještě chvíli pokračoval, až nechali řetězovou havárku daleko za sebou, a pak vklouzl zpátky na dálnici.
 
 Jakmile se zas octl na dálnici, vyrazil napřed jak chrt za elektrickým zajícem, ale už vzápětí zpomalil a dál už jeli jen procházkovým krokem. Ztráta času nebyla totiž zas tak veliká, jak se ještě před chvílí domníval, a všechno bez problémů stihne. Ale co vlastně stíhal?
 
 Silvestr zaparkoval před dálničním motelem, obešel vůz, otevřel Olze a jeho tvář teď září jak lilie polní. Vstupuje s Olgou do restaurační místnosti a drží ji přitom za ruku. Ta se nebrání, jen tomu vůbec nerozumí.
+
+</section>
+
+<section>
 
 Silvestr se rozhlíží. Restaurace zeje noční prázdnotou. Jen v jejích vzdálených rozích, jeden vlevo, u dveří do nějaké služební místnosti, druhý vpravo, u dveří na WC, sedí u svých malých nočních večeří dva dosti si podobní šediví pánové. A prozraďme, že se navzájem neznají. Když je Silvestr uvidí, kývne nalevo, kývne napravo a ti dva šedivci si takřka totožným způsobem otírají ubrouskem rty, sbírají se a jdou Silvestrovi a Olze vstříc. A zas prozraďme, že jeden je úředník a druhý kněz, oba však s pravomocí oddávat. A každý z nich má v motelu pronajatu svoji místnůstku, přizdobenou k téhle příležitosti příslušnými insigniemi.
 
@@ -39,6 +61,10 @@ Před obřadem se navlékají do svých rouch (úředník to má v tomhle ohled
 „Můj dárek spočívá v tom,“ praví Silvestr, „že ti konečně předvedu nějaký ten svůj černokněžnický kousek. Zatím jsem s tím nijak nechvátal, protože v čase, kdy čarodějnictví už zas přišlo do módy, mi v tom bránil stud. K noblese nás, co snad sem tam něco umíme, patří, že s tím danajským darem neplýtváme. Ale teď už to, zdá se, nesmím odkládat.“
 
 A Silvestr vyzval Olgu, aby s ním šla na parkoviště.
+
+</section>
+
+<section>
 
 Nu, spěchám zas podotknout, že zatímco v červnu se toho léta urodilo pár studených nocí, teď v polovině září byla noc jak na svatební objednávku: hvězdná i nadobyčej teplá. A taky frekvence byla, dá se říct, na jejich straně, totiž stále ještě zaseknutá. Z té znehybnělé kolony se zatím neobjevil jediný vůz. Prostor noci je tichý a majestátní.
 
@@ -67,3 +93,5 @@ Ale to už jeli další a další, a protože už nebyl klid na soustředění
 „Nemám rád šlampáckou práci,“ postěžoval si a chodil jak pešek okolo billboardu. Ale pak už vyšlo nezapomenutelné slunko jejich prvého manželského dne a Silvestr Silvestr a Olga Olga si – vložka nevložka – padli znova do náruče a ještě si to udělali v autě.
 
 Ale tentokrát už bohužel nebylo nikoho, kdo by od projíždějících (a nestydatě zpomalujících) vybíral vstupné.
+
+</section>

@@ -3,6 +3,8 @@ title: '14'
 contentType: prose
 ---
 
+<section>
+
 Dávno předtím, než na farmu přivezl Olgu, opatřil si Silvestr Silvestr Králíčka. A když ho poprvé uviděl a hlavně jeho tříbarevnou hlavu (na temeni pruh oranžově červený, nad spánky vybarveno do zlatova a vpředu pruh hnědočervený), bylo hned o jeho jménu _pro domo sua_ rozhodnuto.
 
 „Nebudete se zlobit, když vám budu říkat Králíčku ohnivý?“
@@ -12,6 +14,10 @@ Dávno předtím, než na farmu přivezl Olgu, opatřil si Silvestr Silvestr Kr�
 Však teď trochu urychleme běh událostí, abychom mohli věnovat pozornost příhodě, která vrhne na Králíčka ohnivého zvláštní světlo.
 
 Jsme tudíž kousek dál v příběhu. Olga už odložila sádru a už ji na farmě nenavštěvuje rehabilitační sestra a berle vyměnila za elegantní hůlku. Dokonce i psycholožka (kterou Silvestr rovněž jednou týdně přivážel) už připustila, že ten surový akt a ošklivá příhoda odplynou možná přece jenom bez následků.
+
+</section>
+
+<section>
 
 Už daleko pokročilo léto (jsme už v půli srpna 1990) a lesy obstupující Silvestrovu farmu se zaplnily zvěří jak smyčcový orchestr houslisty a ze soběšické Hubertovy střelnice je slyšet nácvik ne­trpělivých střelců. V tom čase už Olince pomalu otrnulo, a tak ji začaly opouštět i některé přísné zásady a pravidla, jimiž se po té ošklivé příhodě obezdila. A nakonec vzala v potaz i „sexuální karanténu“, kterou na sebe uvalila hned po rozchodu s Mirkem. Ano, začal se probouzet i její dávný smysl pro krásné vylomeniny, jenž kdysi tak děsil opatrnického inženýra Žluka. Jenže co s tím? Co kruci s tím? Na Silvestra Silvestra si netroufala, ten by se samozřejmě nenechal jen tak uharašit. Nemluvě o tom, že právě odletěl přes kanál La Manche (do Skotska) na konferenci o ezoterickém společenství The Golden Dawn, té „okultní univerzitě“ konce devatenáctého a počátku dvacátého století, z níž dodnes těží všichni, kdo chtějí hodně vědět o kabale, tarotu, alchymii, astrologii a numerologii. A tak Olga měla před sebou týden jen ve společnosti Porthose a Králíčka ohnivého.
 
@@ -45,4 +51,10 @@ A v následujících dnech Králíček ohnivý nejenže Olze stále uhýbal z�
 
 Není možná, bavila se Olinka, on se mě fakticky bojí. Není možná, polekala se, tady fakt něco nehraje. Jen mi povězte, proč tenhle chlap, velký jak katalánský bejk, má takový strach z chromé křehulky, co? Anebo to není strach? Tak co to je? Ale mohla se ptát, jak chtěla, odpověď nepřišla.
 
+</section>
+
+<section>
+
 Za tři dny po těchhle nevyvedených Olinčiných hrátkách či jak to nazvat se vrátil ze Skotska Silvestr. A Králíčku ohnivému nezbylo než se zas objevit, vylézt ze svých skrývaček, jako by se nic nestalo. Ale byl pořád trochu nejistý a uhýbavý. Až Silvestr Silvestr na něm několikrát utkvěl dlouhým, zkoumavým pohledem.
+
+</section>
