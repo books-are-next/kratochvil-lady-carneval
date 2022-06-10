@@ -3,6 +3,8 @@ title: '6'
 contentType: prose
 ---
 
+<section>
+
 Bydlela nedaleko kina Lucerna, ve třetím poschodí činžáku na rohu ulic Veveří a Tábor.
 
 Sotva se vrátila domů, obešla byt a vytáhla v ložnici žaluzie. Pak prošla obývákem na balkon.
@@ -17,10 +19,20 @@ Na obrazovce zatím probíhala diskuse, jestli je dobré komunistickou stranu za
 
 Olze to bylo šumafuk, nic z té zapálené diskuse nevnímala. Pořád tam stála, upíjela ze sklenice a dívala se do tmavého kouta. A když sklenici dopila, napadlo ji: Co se může stát, když se jen tak na otočku podívám do Židenic, do Staré osady? A tu spěšnost a bezvýznamnost takové cesty hned zvýraznila tím, že si v předsíni vytáhla z bedny chalupářskou bundu a rifle a rozumí se, že si to hned natáhla přes pyžamo, jako by tím chtěla říct: Nic se neděje, jen si na chvilku odskočím. Rifle jí byly po posledním seprání krátké, z pravé nohavice se plazilo ven pyžamo a nad kolenem, kde měla díru jak dětskou pěstičku, byl vidět rej Beatlesáků a Stounů. Ale to by nemělo být na závadu. Vždyť neměla v úmyslu vystrčit nos z vozu. Totiž pokud něco, tak právě a pouze ten nos.
 
+</section>
+
+<section>
+
 Když vstupovala do výtahu, naskočil jí všivý obrázek: přijede do Staré osady a zastaví poblíž obřího paneláku a sedí tam potmě s předoucím motorem, loket opřený o volant a odpočítává okna, až najde to Mirkovo, a hned to vidí, za záclonkou roztomilá stínohra lásky… Tak pro tohle si tam jedu! No kdo chce kam, pomozme mu tam! A Olinka vyletí z výtahu jak čertík ze škatulky.
 
 Garáže jsou kousek od domu, zasunuté do prostranství někdejší proluky. Vycouvala se svým peugeotem, zamkla garáž, a teprve když prudce vjela na Minskou a otřela se o tramvajový vůz a uslyšela to pronikavé zaskřípění, teprve tehdy si uvědomila, že má v sobě bourbonu víc než radno.
 
 Ale tohle varování zas rychle odeznělo a dál už pokračovala s elegantní nedbalostí a obratně se vsouvala mezi autobusy, trolejbusy, tramvaje a dvakrát, nebo dokonce třikrát přeskočila refýž, jista si tím, že spravedlivý hněv je její anděl strážný.
 
+</section>
+
+<section>
+
 Prosvištěla večerním Cejlem a najela do Zábrdovic, kde pak hned za mostem odbočila podél kostela do Lazaretní a přibližovala se ke Staré osadě zezadu, po levé ruce světla továrních hal Zbrojovky. Přejela trať a tam už ji to potkalo. Z Koperníkovy ulice vyrazil v protisměru stěhovák, obézní špeditérská obluda, a Olga najednou ztratila jistotu, že se prosmýkne, zazmatkovala a strhla vůz, ale ten se hned jak tenisový míček odrazil zpátky doprostřed ulice a stěhovák byl už nadoraz, za předním sklem nad hlavou řidiče visela jakási veliká loutka, pán ve fraku s ještěrčí hlavou, Olga prudce zabrzdila, rozrazila dvířka a chtěla co nejdál vyskočit, ale levá noha se jí zachytila nártem, rup, uslyšela škaredé zapraštění, které běželo páteří nahoru jak telegrafická zpráva. Zakvílely i špeditérské brzdy a stěhovačská obluda sklonila svou býčí šíji a nekonečně něžně se nozdrami dotkla ležící Olgy. Z nepředstavitelné blízkosti žhnuly dva reflektory.
+
+</section>

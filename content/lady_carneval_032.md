@@ -3,11 +3,17 @@ title: '24'
 contentType: prose
 ---
 
+<section>
+
 Filip na Olgu stále víc naléhal, aby to rozhodně nenechala jenom tak a aby o tom, co zjistila na farmě, informovala policajty. Vysvětlila mu, že nemá nejmenší chuť jít někoho udat, „ač to ode mě jako od spolupracovnice bývalé Státní bezpečnosti zajisté čekáš.“
 
 „Neser mě, má milá,“ postěžoval si Filip, „to si snad nezasloužím. Copak se o tebe nestarám jako vlastní máma?“ Ale Olga si povzdechla: „Fakt si neumíš představit, jak by to rozmázli v bulváru? Čtvrt roku žije pod jednou střechou se svými násilníky, nechá se od nich vydržovat a pak je jde prásknout. Lady Carneval, bulvární seriál na pokračování…“
 
 „Jenže fór je v tom, že se toho nikdy nezbavíš, dokud něco nepodnikneš,“ trval na svém Filip. „Ledaže tvůj cit k Silvestrovi Silvestrovi stále ještě nevyhasl a ještě pořád ho žereš. To pak pardon.“
+
+</section>
+
+<section>
 
 A tak se vypravili do Sofistikované velryby. Bylo krátce po poledni, právě ten čas, kdy ji tam Silvestr poprvé zavedl. V tuhle chvíli by tady buď měl sedět (pod obrazem se železničním viaduktem), anebo by ten stolek měl zůstat prázdný, rezervovaný. Tak si to přece Silvestr zavedl. Ale seděli tam tři břichopásci a házeli do sebe celé hejno španělských ptáčků.
 
@@ -31,6 +37,10 @@ A tak se vypravili do Sofistikované velryby. Bylo krátce po poledni, právě 
 
 Ale sotva vyšli ze Sofistikované velryby, Olga pochopila, že Filip se už zapálil pro novou ideu: „Vykouříme Silvestříčka přímo z jeho doupěte!“ Nejhorší ovšem bylo, že Filip se už pro tu myšlenku zapálil tak, že byl schopen odjet z první zastávky tramvají do Štefánikovy čtvrti a tam přesednout na autobus do Soběšic. A Olgu stálo obrovské úsilí přesvědčit toho zběsilého vyklepávače koberců (jak mu v duchu říkala, kdykoliv jím zacloumala ta jeho zarputilost), aby tam nejeli městskou hromadnou, nýbrž si vyzvedli z garáže Olžina peugeota.
 
+</section>
+
+<section>
+
 Byl slunný den z konce října, a když vjížděli do Soběšic, uviděli tam v zelených kamizolách jakousi mysliveckou sebranku chystající se do Spanilého lesa. Jeden z nich měl na hrudi zavěšen plechový lovecký roh. A Olgu okamžitě napadlo, že také oni přijeli na lov, protože co je to po čertech a v zásadě jiného? Otázkou ovšem zůstává, jestli není Silvestr příliš velkým loveckým soustem, příliš velkým jelenem pro ohaře Zdeněčka, pardon Filipa. Moc ráda bych věděla, proč jsem k němu stále tak nedůtklivá, ptala se sama sebe, když on se ke mně chová s tak příkladnou oddaností, anebo snad ne? A když taky já k němu cítím snad i mnohem víc než pouhou vděčnost? No rozhodně ho nežeru, sotva se dá mluvit o nějaké horoucí a hluboké kompatibilitě, spíš jen o troše repasovaného chtíče, uzavřela svou bleskovou analýzu.
 
 Když přijížděli na dohled Silvestrovy farmy, vzali hned na vědomí, že něco není v pořádku. Zaparkovali na kraji Soběšic a dál pokračovali pěšky.
@@ -41,6 +51,10 @@ A pak už je přivítala cedule _Dům na prodej!_ A dveře a taky přízemní
 
 Překročit znova práh farmy, kde byla tak dlouho dobrovolnou zajatkyní, se ale ukázalo obtížnější, než si představovala. Na okamžik zaváhala, jako by jí nohy na tom prahu zolovnatěly, ale Filip ji účinně popostrčil. Trochu klopýtla, ale zachytil ji pod paží a dál už to bylo dobrý.
 
+</section>
+
+<section>
+
 A uvnitř se přesvědčili, že opravdu práskl do bot: všechno bylo nakvap vyklizené, zmizel skoro všechen nábytek, jen sem tam nějaká převrácená židle a ty jeho slavné vestavěné a otáčivé skříně zely dokořán a farma byla, zdá se, odpojena od elektřiny, plynu i vody. Až Olze málem přišlo Silvestra líto. Co jeho nakladatelství Hermetika a co typografické studio a co kožešinová farma? Vyklidil i tyhle svoje sny, naložil je na formanský povoz a táhl s nimi dál?
 
 Ale od chvíle, kdy vstoupili, je taky provázela jakás trýznivá zvuková kulisa. Napřed jim nebylo jasné, co to může být, ten kolísavý zvuk, až Olga náhle pochopila, že je to zvířecí řev, že tak křičí její Porthos, uvězněný kdesi v domě.
@@ -48,6 +62,10 @@ Ale od chvíle, kdy vstoupili, je taky provázela jakás trýznivá zvuková kul
 Prudce rozrazila dveře toho, co bývalo její ložnicí. Ale Porthos ani pak nezmlkl. Hleděl na ně nepřítomnýma očima a dál řval, jako by byl chlupatým a zmrzačeným andělem Posledního soudu.
 
 „Je dehydrovaný, vyhládlý, kdyby to nebyl kocour s dlouhou řadou kočičích životů, tak už je dávno kaput. Skočím do Soběšic pro balenou vodu a kousek salámu.“ Ale Olga nechtěla ani slyšet, že by tam měla zůstat několik minut sama. Rozhodli se tedy, že rychle sbalí kocoura a ty Olžiny věci, co tady nechala při svém útěku (někdo je naházel na hromadu doprostřed ložnice), ale pak oběma došlo, že nemohou odjet dřív, dokud taky ještě nenahlédnou do „třinácté komnaty“.
+
+</section>
+
+<section>
 
 V místnosti je přítmí, ale něco tam vrčí. Olga jde k oknu, vytáhne žaluzie a otočí se. Výklenek prázdný, masky kuny a tchoře zmizely. Ale o kousek dál u zdi veliká lednička a zrovna se nabíjí mrazem a ledem, to je ten zvuk. Ta tady tenkrát nebyla a teď se tady napájí z jediné fungující zásuvky, jinak je dům bez šťávy.
 
@@ -68,3 +86,5 @@ Olga poodstoupila jak před Monetovým plátnem: „Seš fakticky dobrej.“
 „Snad jo. Jsem totiž především výtvarník. To je zas má třináctá komnata, do níž jsem tě zatím nepustil. Ale už brzo to napravíme. Slibuju.“
 
 Oba si ještě uždíbli z pistáciového nanuku a Olga pak nabrala plnou hrst Sachrova dortu, roznožmo nadskočila a mrskla ho do stropu, kde zůstal viset jak zdobný kravěnec. Filip zatleskal. A pak už sbalili kocoura a tu hromádku Olžiných věcí a jakž takž zas zatloukli dveře prkny, nalodili se a otočili na plácku za Soběšicemi a zvedli kotvy a upalovali zpět k Brnu.
+
+</section>

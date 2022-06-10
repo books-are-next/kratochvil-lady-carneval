@@ -3,6 +3,8 @@ title: '21'
 contentType: prose
 ---
 
+<section>
+
 Zásluhou počítačové gramotnosti si Olga našla okamžitě místo, a sice v brněnském nakladatelství ULMUS, které vydávalo vysokoškolské učebnice a odborné publikace. A považovala to jen za jakousi mezistanici, protože mířila zas zpátky do redakce nějakého deníku. Ale zatím nebylo kam spěchat. V Brně zatím nebyl deník nebo časopis, po jehož redakci by tak prahla.
 
 Ověřila si, že už má solidní znalosti němčiny (bodejť by ne, čtvrt roku po patnácti hodinách týdně a s tím nejlepším soukromým učitelem), takže si konečně může přibrat i angličtinu.
@@ -24,6 +26,10 @@ Olga cítila, jak jí proběhla vlna studu a hned druhá a třetí, když si j
 Olga s jistými rozpaky zjistila, že na Zdeněčka hledí netoliko se stále ještě neutuchajícím překvapením, ale také se stále narůstajícím obdivem. Pamatovala si přece z redakce Kurýra, že se oblékal přímo odpudivě a na límečcích košil a na ramenou přechovával vždy celá stáda lupů, kdežto teď byl jako vystřižený z Cosmopolitanu, luxusní dáreček pro nenasytné ženské oči. A určitě nejen pro oči. Vždyť k té fantastické proměně patřilo i to, jak Zdeněček mluvil. A dokonce i každé jeho gesto, každý pohyb. Byl to a nebyl on. Ale možná že kdysi znala jen housenku a až teď uzřela motýla.
 
 A pak se už plné dvě minuty soustředila na ten zážitek z tiramisu. Měl pravdu: chuťový zázrak, jako by jí někdo nabídl k olíznutí prst, jejž právě vytáhl z kapitalistického ráje. A potom zvedla hlavu a utkvěla na špičce Zdeněčkova nosu. A musela uznat, že byla nasazena obdivuhodně šikovně. Padla mrška jak ulitá.
+
+</section>
+
+<section>
 
 Samozřejmě už věděla, že Brněnský kurýr mezitím zanikl a redakce se rozpadla. Ale teď se ještě dovídala všelijaké podrobnosti neblahého konce. Kurýr zřejmě doplatil na neschopnost inženýra Žluka rozhodnout se, co z něho chce mít. Jak změnit jeho tvář v té supernové situaci? Měl by snad být prvním brněnským opravdu vykřičeným bulvárním deníkem? Anebo naopak seriózním a spolehlivým regionálním zpravodajem? A snad dravou konkurencí pro celostátní deníky? Přísným arbitrem nových politických mravů? Anebo moravskými novinami podporujícími moravistické zájmy? Či třeba štatlařským večerníkem kolportovaným v brněnských paluších? Ale protože se Žluk nebyl s to rozhodnout – ach to odporné břemeno volnosti a svobody! –, tak Kurýr byl nakonec vším a ničím a rychle žlukl. A Žluk práskl do bot, zmizel kdesi v Praze a osiřelí redaktoři se pokoušeli uchytit v reklamě anebo v rychlokvašných soukromých firmách, které pak taky čiperně krachovaly.
 
@@ -68,3 +74,5 @@ Kratičká pauza, jako by neviditelná taktovka nad jejich hlavami na okamžik z
 Usmál se: „A víte co? Já už totiž fakt musím letět. Zaplaťte za nás to kafe a tiramisu a já vám za to tuhle sobotu přijdu vyklepat koberce. Ještě pořád bydlíte tam na rohu Veveří a Tábora?“
 
 Olga kývla a teprve po jeho odchodu se vyděsila, ale už bylo pozdě. Neměla totiž žádnou šanci to odvolat, protože když přece neznala Zdeňkovo příjmení, nemohla ho najít v telefonním seznamu ani se doptat v jazykovce. A v sobotu, hned po ránu, jí zavolal, že už je na cestě.
+
+</section>

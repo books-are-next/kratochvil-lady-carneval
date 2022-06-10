@@ -3,6 +3,8 @@ title: '17'
 contentType: prose
 ---
 
+<section>
+
 Právě odešel němčinář, co dnes Olgu potýral procvičováním německých konjunktivů (těch gramatických poťouchlin, jež v konverzaci neuplatníš, ale německé noviny si bez nich nepřečteš), když si Silvestr loktem otevřel dveře: nesl totiž plnou náruč nábytkářských katalogů.
 
 „Teď se posaď k tomuhle a vyber si. A co nebude ke koupi, sám vyrobím a doplníme autentickými starožitnými kousky, taky podle tvého výběru.“
@@ -36,3 +38,5 @@ Právě odešel němčinář, co dnes Olgu potýral procvičováním německých
 „Ne, ne, vždycky je co napravovat! Celý lidský život je jen dlouhý řetěz chyb a nedorozumění a nesmíme se zříkat žádné možnosti aspoň některé z nich napravit. O tom, prosím, nikdy nepochybuj.“
 
 8. října odjel Silvestr do Prahy a ještě téhož dne večer odletěl do Colomba (s mezipřistáním v Dubaji).
+
+</section>

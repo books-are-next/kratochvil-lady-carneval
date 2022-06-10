@@ -3,6 +3,8 @@ title: '37'
 contentType: prose
 ---
 
+<section>
+
 ON: Abych vám řekl pravdu, já teď fakt nevím, jestli je v Aténách letiště.
 
 JÁ: A proč by proboha nemělo být? V hlavním městě Řecka! V hlavním městě jedné z turistických velmocí!
@@ -32,3 +34,5 @@ JÁ: Jasně. Bylo to synchronizovaný: skončil váš příběh, skončil raut.
 JÁ: Tak dost. Smím konečně vědět, čím jste byl v životě lady Carneval?
 
 ON: Vy si nedáte pokoj, že? A vůbec vás nenapadlo, že jste vlezlý… vlezlý jak lombardská štěnice? Budete člověka otravovat, dokud vám to neřeknu. (A sáhne do kapsy sáčka pro cigáro, anebo spíš takový malý doutníček, a z kalhot vyloví stříbrný zapalovač.) Tak dobře, chtěl jste to. (Zapálí si.) Byl jsem tím kocourem Porthosem.
+
+</section>

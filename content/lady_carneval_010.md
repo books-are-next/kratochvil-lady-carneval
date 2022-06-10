@@ -3,9 +3,15 @@ title: '4'
 contentType: prose
 ---
 
+<section>
+
 Ale nešli zas tak daleko. Hned za rohem, na Kobližné, byl nově otevřený podnik, Sofistikovaná velryba, a v něm se už na první pohled snoubil vybraný vkus s noblesním nevkusem.
 
 „V tuhle hodinu tady mám vždycky rezervovaný stůl,“ pravil Silvestr Silvestr a ukázal na stolek vzadu, pod nějakým podlouhlým, úzkým obrazem, který z té dálky od dveří vypadal, jako že zobrazuje dlouhý most překlenující nějaký mořský záliv, jemuž se nejspíš říká mořský chobot. „Funguje to tak,“ pokračoval Silvestr, když rozdávaje úsměvy na všechny strany, procházel s Olgou mezi stoly, „funguje to tak, že ho mám rezervovaný, i když jsem třeba mimo město, což bývá dosti často. I v tom případě mi ho hodinku podrží a pak už uvolní komukoli. K tomu stolku se váže spousta šťastných předností. Jednou je například to, že každý, kdo k němu usedne, je okamžitě obsloužen. A druhou je chvályhodná akustika: není tam slyšet hluk z místnosti, jako kdybyste tam seděla v nějaké zvukové bublině.“
+
+</section>
+
+<section>
 
 A Silvestr odsunul Olze židli a usadili se. „Všechna šťastná obchodní jednání se mají začínat při obědě, takže si objednejte, na co máte chuť, jste mým hostem.“
 
@@ -19,7 +25,15 @@ A Silvestr odsunul Olze židli a usadili se. „Všechna šťastná obchodní 
 
 Silvestr byl vegetarián a objednal si k velkému údivu své spolustolovnice černého kubu, tedy kroupy s houbami, zatímco Olga si dopřála kuře s rýží.
 
+</section>
+
+<section>
+
 A tak tedy ano, na tom dlouhém a poměrně úzkém obraze teď přímo nad jejich hlavami byl opravdu dlouhý železniční viadukt nad chobotem mořského zálivu. Ale z bezprostřední blízkosti bylo teď vidět, že po viaduktu uhání vlak. Ale přestože se hnal jak o závod (což bylo znát i z toho, jak z oken salonního kupé vlály záclony), z jeho komína stoupal kouř rovný a nehybný jak dlouhá tyč. Olga přelétla obrázek mostu zpytavým zrakem, aby se pak zas hned vrátila k tomu o něco většímu uchu Silvestra Silvestra. Jistě, jeho pravé ucho je o něco větší než levé. Pozoruhodný přírodní úkaz. Ale musím mu přiznat, že ho to nijak nezohyzďuje. Dokonce to snad i vypadá, že si ho vypěstoval, že si ho naschvál nechal narůst delší.
+
+</section>
+
+<section>
 
 Zatímco čekali na objednaná jídla, začal už o tom svém časopise Hermetik, vlajkové lodi nakladatelství Hermetika: „Samozřejmě chci, aby se Hermetik dobře prodával. A to se mi myslím daří. Atraktivní obálka a co nejvíc obrázků. Mrzuté, že jsem zapomněl vzít ukázkové číslo. Pak byste sama viděla, jak se mi daří spojit nejvyšší poschodí s nejnižšími, vršek se spodkem, hvězdné terasy se suterénem čili dělat časopis, který spřáhne všechna patra naší mysli. Do jednoho z příštích čísel chystám například ukázky z připravovaného překladu románu _Monsieur aneb Kníže temnot_ od nejvýznamnějšího poválečného anglického básníka a romanopisce Lawrence Durrela. Ale pokud tam dám něco navýsost seriózního, tak hned na dalších stránkách najdete zase všelijaké obskurní senzace, upírské historky a jarmareční záhady. Víte, naše duše potřebuje obojí, výšiny i spodiny, filozofii egyptských hieroglyfů, ale i obrázky spiritistických stolečků ze salonů madame Blavatské, citáty ze slavné _Zlaté ratolesti_ Jamese Frazera, ale i z neslavné _Satanské bible__._ Ukažte mi, andělská paní, někoho, koho vůbec nezajímají tyhle okultistické senzace a spiritistické kraviny, a já vám ukážu blba, možná i inteligentního a nadobyčej kultivovaného, ale přec jen blba.“
 
@@ -49,11 +63,19 @@ Silvestr byl oproti Olze vybaven jen pouhou lžící. Ale ta byla už na první 
 
 Silvestr si naložil další vrchovatou lžíci a chvíli se jen oddával blahu z jejího zpracování. Teprve pak zase pokračoval.
 
+</section>
+
+<section>
+
 „Co mě čekalo? Setkání s obrazem Vincenta van Gogha Zelené žito. Nevím, jestli ten obraz znáte. Řekl bych, že velice přesně sugeruje začátek horkého léta kdesi v Provenci, já ho dosud znal jen z nějaké mizerné reprodukce a netušil jsem, že je v majetku Národní galerie. A zatímco reprodukce mě nechávala lhostejným, originál Zeleného žita mě doslova chytil. Stojím před obrazem a mí svěřenci jsou zatím rozptýlení po celé galerii, člověk ty parchanty a parchantky ne­uhlídá, i kdyby se rozkrájel. Ale mně je to v té chvíli fuk. Dívám se na Zelené žito, nedokážu se odtrhnout, až najednou pochopím, že to, co se teď mezi mnou a Zeleným žitem odehrává, se netýká jenom mě a toho obrazu. A tak jsem se poprvé setkal se svým neblahým darem, o němž jsem do té chvíle neměl ponětí. Někdo by možná řekl zázračným darem, ale já to, všimněte si, neříkám. Něco se začalo dít.“
 
 A Silvestr zas několika lžícemi přerušil vyprávění a chvíli převaloval sousta, než se rozhodl pokračovat.
 
 „Napřed jsem uslyšel jen takové lehounké šelestění, jako když větřík běží mezi klasy, ale pak už jsem začal cítit vůni letního dne kdesi v polích. A ohlédl jsem se a uviděl, že všichni kolem stojí a rozhlížejí se. Všechny v dohledu toho obrazu to zasáhlo, jemně zaklonili hlavy, jako by naslouchali, a chřípí se jim chvěla. Přišli mi jak zástup čekající na zjevení (počátek léta v Provenci tu rozestřel své perutě!). A to už jsem věděl, že když teď něco neudělám, že když se tomu nepostavím, že když tomu teď nezatnu tipec, překročí to vzápětí jistou hranici a nebude už cesty zpátky. A omlouvám se, že teď použiju jistého neslušného přirovnání. Ale jedině tak se to dá přiblížit. Najednou to bylo s prominutím nezadržitelné jako ejakulace. Goghův obraz mi začal bobtnat před očima a pochopil jsem, že už každou chvíli začne stříkat z plátna a zaplaví nás všechny, co jsme stáli v dosahu, pohltí nás to Zelené žito a budem tady po pás v obilí. A tak jsem udělal jediné, co jsem ještě stačil. Prudce se rozběhl a vypálil z galerie, švihem přerušil relaci s obrazem.“
+
+</section>
+
+<section>
 
 Silvestr požvýkal poslední sousto, utřel si ubrouskem rty a pečlivě ho zmačkal do malé kuličky a spustil do prázdného talíře a přitáhl si skleničku a obtáhl prstem její okraj: „Poraďte mi, co říkáte. Teď se zrovna rozběhla v tisku diskuse, jestli je lepší, když ministrem obrany je armádní generál, anebo civilista. Možná jste ji taky sledovala. Smějte se, ale já to tak trochu vztáhl na sebe. Slyšíte, ptám se vás, je vůbec žádoucí a vhodné, aby majitel a šéfredaktor ezoterického a okultního nakladatelství vyváděl takovéhle para­psychologické kousky? Jsem pak ještě schopen být nad věcí? Dokážu ještě být objektivní k těmhle jevům? Ale na druhé straně, nebýt té mé černokněžnické múzy, jak jste to laskavě nazvala, nebýt toho pochybného daru a záludných schopností, nikdy bych se o tohle hájemství nezajímal. Takže jak je to, smí být černokněžník vykladačem a popularizátorem ezoteriky?“
 
@@ -75,8 +97,14 @@ Silvestr požvýkal poslední sousto, utřel si ubrouskem rty a pečlivě ho zm
 
 Silvestr zvedl ruce a Olga vzala s překvapením na vědomí, že jsou to veliké tlapy. Takové by nehledala u intelektuála. A Silvestr Silvestr je s plesknutím spustil na stůl.
 
+</section>
+
+<section>
+
 Jejich další rozhovor už nestojí za pozornost. Nebylo už vysloveno nic nového a zajímavého a Olga se pak už brzo zvedla. A teprve když se Silvestr s Olgou loučil, řekl ještě tohle: „Nezlobte se, ale na vás je znát, že vás něco mocně sužuje a trápí. Ale vy jste přece silná osobnost, sebevědomý boží tvor, takže to, co vás takhle sužuje, čím se necháte takhle týrat, to musí být opravdu cosi…“
 
 Ale Olga ho nenechala domluvit. „Koukám, že mi vidíte až do hlubin duše. Jenže já si vaši spektrální analýzu neobjednala. Děkuji za pozvání na oběd, ale asi jste jen mařil svůj černokněžnický čas…“
 
 „Počkejte, zapomněli jsme na váš kabát,“ upozornil ještě Silvestr. Byl teplý den z konce května a Olga samozřejmě nepřišla v žádném kabátě. Silvestr se přesto vrátil k věšáku u jejich stolu a dělal, že z něho sundává jakýsi neviditelný kabát, a přinesl jí ho a jako by přidržel a Olga se do něho jako by nasoukala. „Tak se mi to líbí,“ usmál se Silvestr. „A moment ještě.“ A sundal Olze z neexistujícího kabátu neexistující smítko.
+
+</section>

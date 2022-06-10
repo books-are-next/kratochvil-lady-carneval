@@ -3,6 +3,8 @@ title: '34'
 contentType: prose
 ---
 
+<section>
+
 Příběh o lady Carneval mám, jak jsem už zmínil, z druhé ruky. Kdosi mi ho vyprávěl.
 
 To bylo takhle.
@@ -12,6 +14,10 @@ Někdy na konci léta 2001 jsem byl pozván na velký raut u příležitosti n�
 Ukažte mi spisovatele, kterému se tohle nestalo. Když nějaký čas píšete povídky a romány, a dokonce vám je vydávají, nakonec vždycky přisedne někdo, kdo má pro vás ten pravý a úžasný příběh, co rozhodně musíte napsat.
 
 Ale tentokrát to bylo k mému překvapení naprosto jinak. Ten příběh, ten opravdický a skutečný příběh, kterému jsem tam na schodech naslouchal, byl tak zvláštní a poutavý, že jsem si vlastně ani neuvědomil, jak dlouho tam sedíme. (Nu, proseděli jsme tam celý ten dlouhý letní večer a jen v kratičkých pauzách jsem zas uslyšel kolísavý tón toho nekončícího rautu.) A zaujal mě už začátek příběhu. Navázal totiž na to, co jsem se na začátku osmdesátých let dověděl o brněnské operaci komunistického prezidenta Gustáva Husáka. A jen občas jsem vyprávění přerušil otázkami. A jen někdy se to vyprávění změnilo v rozhovor.
+
+</section>
+
+<section>
 
 JÁ: Chtěl bych si něco ujasnit. Na podzim 1990 se z jejího života vytratil Filip Bureš a až do sblížení s Lukášem Hamplem žila Olga sama. To je srozumitelné, to dokážu pochopit. To zlé zřetězení zlých náhod, či co to bylo, ji naučilo ostražitosti. Ale jak to, že taková houževnatá a cílevědomá bytost, ten sebevědomý a paličatý boží tvor se nechal manipulovat nějakýma mužskýma? Vláčet a manipulovat…
 
@@ -86,3 +92,5 @@ ON: Olga se prudce otočí. Ale Blanca Nives tam pořád ještě sedí s prstem
 JÁ: Aha. Fajn. Skoro bych tomu zatleskal. Až na to, že ten viadukt nad chobotem mořského zálivu je v našem případě trochu, abych použil vašeho oblíbeného pojmu, nesrozumitelná ikona. Nebo ne? Dejme tomu, že nějaké švýcarské pojišťovně může posloužit jako taková tradiční symbolika jistot – pevný most nad tříští vln a spolehlivý a pohodlný vlak, který bezpečně a zavčas dojede k cíli. Ale proč opakovaně v životě Olgy Abelové?
 
 ON: Tak jo. Ale opravdu jen pro vaše potěšení se pokusím o jakýsi výklad. (Pauza.) Když se Olga snaží odvyprávět napřed Silvestru Silvestrovi a pak Filipu Burešovi a pak ještě Lukáši Hamplovi, co ji to vlastně postihlo, to své zlé zřetězení zlých náhod, jak jste to nazval, je si nakonec vědoma toho, že se jí vůbec nedaří říct to podstatné. Srostlo to s jejím životem a teď už to nejde odtrhnout. A proto ani pojmenovat. Není z toho cesty ven. Však co je to podstatné? Ale o tom je přece ten obraz se železničním viaduktem! Vlak uhání, záclony vlají, ale kouř přece, vzpomeňte si, stoupá rovně vzhůru! Čili zásah do přirozených zákonitostí! Kdesi se stalo cosi nenapravitelného. (A vida, v tomtéž obraze zároveň pojišťovácké jistoty i existenciální propasti!) Ale taky s tím Olinčiným světem se možná stalo něco nesrozumitelného a nenapravitelného. Kdy, jak, proč? Tak to si netroufám vědět. Ale je to s ní teď neoddělitelné srostlé. A není z toho cesty ven. Už rozumíte? Srostlé… (Pauza.) Ale to zas neberte moc vážně. To je jen takový můj výklad. Klidně by se dal vymyslet docela jinej.
+
+</section>

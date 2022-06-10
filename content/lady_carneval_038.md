@@ -3,6 +3,8 @@ title: '29'
 contentType: prose
 ---
 
+<section>
+
 Olga občas mívala pocit, že strávila celé dětství v bezmocných potyčkách se svým otcem. Byl to zuřivý, vzteklý chrapoun, aspoň takhle si ho pamatovala. Takže když pak zemřel na infarkt, nijak to Olgu nepřekvapilo, ale ani nedojalo. Zlé ale bylo, že se Olžina matka podruhé provdala za stejně vzteklého idiota. Tak zdárnou kopii svého chrapounského nebožtíčka musela opravdu hodně pečlivě hledat.
 
 Olžina matka bydlela v Mrákotách, v rodinném domku po svých rodičích, kam Olga kdysi jezdívala na holčičí prázdniny k dědečkovi a babičce. Ale teď ji tam nic nelákalo, protože netoužila po setkání se zdárnou kopií. Avšak tentokrát byl matčin telefonát tak naléhavý a setkání s chrapounským otčímem tak nepravděpodobné (vyrazil se svým kamionem na zahraniční cesty), že Olze nezbylo než slíbit, že se v Mrákotách ukáže.
@@ -19,9 +21,17 @@ Už za totáče se bezohledně rozprodávalo přírodní bohatství a k rakous
 
 Olga trávila nad tímhle materiálem soboty a neděle, naprosto všechen svůj volný čas, a setkávala se s lidmi, kteří o tom něco věděli či aspoň tušili, anebo naopak rozhodně odmítali vědět. A s foto­aparátem objížděla místa těch holosečných pohrom. A byla z toho pak rozsáhlá reportáž, společná práce i několika dalších autorů, ústřední téma jednoho z čísel Respektu, odvážný pokus zveřejnit základní fakta o tom mafiánském rozkrádání lesů.
 
+</section>
+
+<section>
+
 Ale kontakt s redakcí Respektu směřoval okamžitě k dalším reportážím, a protože Olga neznala teď už nic takového jako soukromý život, mohla, „neoblomná jeptiška“, rozdělit veškerý svůj čas mezi nakladatelství a to, čemu se teď už i u nás začalo říkat investigativní žurnalistika. A nakonec se jen po malém zaváhání pustila do zvlášť nebezpečné kauzy. Novou profesí v postkomunistické společnosti se stali nájemní vrazi. A bylo vysloveno podezření na jejich propojení s policií. I tahle reportáž měla být kolektivní prací a úkolem Olgy bylo setkat se s několika lidmi, kteří něco tušili, a taky pak s těmi, kteří rozhodně odmítali vědět.
 
 A pak ji k ránu probudil telefon, a když nepřestával vyzvánět, vykutálela se otráveně z postele a pádlovala do předsíně. A když ho zvedla, ve sluchátku to po chvilce ticha ošklivě kviklo, jako kdyby tam na druhém konci někdo podřízl živého tvora. A pak kdosi hned zavěsil. A když se tak stalo i další noc, Olga pochopila, že by to snad měla brát vážně. „Někdo se nás pokouší vystrašit. Tak co, budeme se bát? Mluv, Porthosi!“ Ale Porthos jen zablikal lucerničkami očí.
+
+</section>
+
+<section>
 
 „Není možná, seš to ty, Olinko? Kam jsi zas na tak dlouho zmizla?“
 
@@ -53,4 +63,10 @@ Lída se zavrtěla na židli. „Vždyť jsou to hry s mocí, to nepopřeš. Ob
 
 Ale to už i Lídě došlo, že to s tím ostřelovačem přestřelila a rázem se zasekla a už nechtěla o ničem mluvit. A začala se cpát ovocným pohárem, až jí lezly bubliny z nosu.
 
+</section>
+
+<section>
+
 Olga pak o tom doma přemýšlela. Chápala, že je Lída na tom blbě a že má jen nějaký příslib odněkud, a tak právo být nervózní jak pes. Ale proč se to všechno tak rychle zvrhlo v hádku o novinách? A kde, panno nebeská, sebrala toho ostřelovače za komínem? Vždyť se jí přece vůbec nezmínila, co teď dělá pro Respekt.
+
+</section>
