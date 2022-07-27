@@ -1,0 +1,1012 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Lady Carneval",
+  "author": "Jiří Kratochvil",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "kratochvil-lady-carneval-1574c02",
+  "revision": "1574c02",
+  "readingOrder": [
+    "promo.html",
+    "lady_carneval_005.html",
+    "lady_carneval_006.html",
+    "lady_carneval_007.html",
+    "lady_carneval_008.html",
+    "lady_carneval_009.html",
+    "lady_carneval_010.html",
+    "lady_carneval_011.html",
+    "lady_carneval_012.html",
+    "lady_carneval_013.html",
+    "lady_carneval_014.html",
+    "lady_carneval_015.html",
+    "lady_carneval_016.html",
+    "lady_carneval_017.html",
+    "lady_carneval_018.html",
+    "lady_carneval_019.html",
+    "lady_carneval_020.html",
+    "lady_carneval_021.html",
+    "lady_carneval_022.html",
+    "lady_carneval_023.html",
+    "lady_carneval_024.html",
+    "lady_carneval_025.html",
+    "lady_carneval_026.html",
+    "lady_carneval_027.html",
+    "lady_carneval_028.html",
+    "lady_carneval_029.html",
+    "lady_carneval_030.html",
+    "lady_carneval_031.html",
+    "lady_carneval_032.html",
+    "lady_carneval_033.html",
+    "lady_carneval_034.html",
+    "lady_carneval_035.html",
+    "lady_carneval_036.html",
+    "lady_carneval_037.html",
+    "lady_carneval_038.html",
+    "lady_carneval_039.html",
+    "lady_carneval_040.html",
+    "lady_carneval_041.html",
+    "lady_carneval_042.html",
+    "lady_carneval_043.html",
+    "lady_carneval_044.html",
+    "lady_carneval_045.html",
+    "lady_carneval_046.html",
+    "lady_carneval_047.html",
+    "lady_carneval_048.html",
+    "lady_carneval_049.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Wed Jul 27 2022 13:38:20 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658929100371
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "lady_carneval_005.html",
+      "toc": []
+    },
+    {
+      "title": "Lady Carneval",
+      "file": "lady_carneval_005.html",
+      "words": 28,
+      "chars": 152,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "lady_carneval_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PRVNÍ ČÁST",
+      "file": "lady_carneval_006.html",
+      "words": 2,
+      "chars": 10,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "lady_carneval_005.html",
+      "next": "lady_carneval_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PRVNÍ ČÁST",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1",
+      "file": "lady_carneval_007.html",
+      "words": 173,
+      "chars": 1104,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 3,
+      "prev": "lady_carneval_006.html",
+      "next": "lady_carneval_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2",
+      "file": "lady_carneval_008.html",
+      "words": 456,
+      "chars": 2801,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 4,
+      "prev": "lady_carneval_007.html",
+      "next": "lady_carneval_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3",
+      "file": "lady_carneval_009.html",
+      "words": 1498,
+      "chars": 8950,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 5,
+      "prev": "lady_carneval_008.html",
+      "next": "lady_carneval_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4",
+      "file": "lady_carneval_010.html",
+      "words": 2323,
+      "chars": 14004,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 6,
+      "prev": "lady_carneval_009.html",
+      "next": "lady_carneval_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5",
+      "file": "lady_carneval_011.html",
+      "words": 420,
+      "chars": 2434,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 7,
+      "prev": "lady_carneval_010.html",
+      "next": "lady_carneval_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6",
+      "file": "lady_carneval_012.html",
+      "words": 759,
+      "chars": 4478,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 8,
+      "prev": "lady_carneval_011.html",
+      "next": "lady_carneval_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7",
+      "file": "lady_carneval_013.html",
+      "words": 546,
+      "chars": 3103,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 9,
+      "prev": "lady_carneval_012.html",
+      "next": "lady_carneval_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8",
+      "file": "lady_carneval_014.html",
+      "words": 442,
+      "chars": 2612,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 10,
+      "prev": "lady_carneval_013.html",
+      "next": "lady_carneval_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "9",
+      "file": "lady_carneval_015.html",
+      "words": 221,
+      "chars": 1266,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 11,
+      "prev": "lady_carneval_014.html",
+      "next": "lady_carneval_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "9",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "10",
+      "file": "lady_carneval_016.html",
+      "words": 584,
+      "chars": 3402,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 12,
+      "prev": "lady_carneval_015.html",
+      "next": "lady_carneval_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "10",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "11",
+      "file": "lady_carneval_017.html",
+      "words": 521,
+      "chars": 3027,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 13,
+      "prev": "lady_carneval_016.html",
+      "next": "lady_carneval_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "11",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "DRUHÁ ČÁST",
+      "file": "lady_carneval_018.html",
+      "words": 2,
+      "chars": 10,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 14,
+      "prev": "lady_carneval_017.html",
+      "next": "lady_carneval_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "DRUHÁ ČÁST",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "12",
+      "file": "lady_carneval_019.html",
+      "words": 381,
+      "chars": 2361,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 15,
+      "prev": "lady_carneval_018.html",
+      "next": "lady_carneval_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "12",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "13",
+      "file": "lady_carneval_020.html",
+      "words": 981,
+      "chars": 6146,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 16,
+      "prev": "lady_carneval_019.html",
+      "next": "lady_carneval_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "13",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "14",
+      "file": "lady_carneval_021.html",
+      "words": 1149,
+      "chars": 6940,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 17,
+      "prev": "lady_carneval_020.html",
+      "next": "lady_carneval_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "14",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "15",
+      "file": "lady_carneval_022.html",
+      "words": 1545,
+      "chars": 9328,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 18,
+      "prev": "lady_carneval_021.html",
+      "next": "lady_carneval_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "15",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "16",
+      "file": "lady_carneval_023.html",
+      "words": 2186,
+      "chars": 13091,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 19,
+      "prev": "lady_carneval_022.html",
+      "next": "lady_carneval_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "16",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "17",
+      "file": "lady_carneval_024.html",
+      "words": 573,
+      "chars": 3391,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 20,
+      "prev": "lady_carneval_023.html",
+      "next": "lady_carneval_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "17",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "18",
+      "file": "lady_carneval_025.html",
+      "words": 2611,
+      "chars": 15245,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 21,
+      "prev": "lady_carneval_024.html",
+      "next": "lady_carneval_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "18",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "19",
+      "file": "lady_carneval_026.html",
+      "words": 379,
+      "chars": 2237,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 22,
+      "prev": "lady_carneval_025.html",
+      "next": "lady_carneval_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "19",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TŘETÍ ČÁST",
+      "file": "lady_carneval_027.html",
+      "words": 2,
+      "chars": 10,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 23,
+      "prev": "lady_carneval_026.html",
+      "next": "lady_carneval_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TŘETÍ ČÁST",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "20",
+      "file": "lady_carneval_028.html",
+      "words": 352,
+      "chars": 2144,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 24,
+      "prev": "lady_carneval_027.html",
+      "next": "lady_carneval_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "20",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "21",
+      "file": "lady_carneval_029.html",
+      "words": 1899,
+      "chars": 11278,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 25,
+      "prev": "lady_carneval_028.html",
+      "next": "lady_carneval_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "21",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "22",
+      "file": "lady_carneval_030.html",
+      "words": 832,
+      "chars": 4978,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 26,
+      "prev": "lady_carneval_029.html",
+      "next": "lady_carneval_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "22",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "23",
+      "file": "lady_carneval_031.html",
+      "words": 617,
+      "chars": 3564,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 27,
+      "prev": "lady_carneval_030.html",
+      "next": "lady_carneval_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "23",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "24",
+      "file": "lady_carneval_032.html",
+      "words": 1493,
+      "chars": 8914,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 28,
+      "prev": "lady_carneval_031.html",
+      "next": "lady_carneval_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "24",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "25",
+      "file": "lady_carneval_033.html",
+      "words": 2300,
+      "chars": 13970,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 29,
+      "prev": "lady_carneval_032.html",
+      "next": "lady_carneval_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "25",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "26",
+      "file": "lady_carneval_034.html",
+      "words": 653,
+      "chars": 3801,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 30,
+      "prev": "lady_carneval_033.html",
+      "next": "lady_carneval_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "26",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "27",
+      "file": "lady_carneval_035.html",
+      "words": 458,
+      "chars": 2810,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 31,
+      "prev": "lady_carneval_034.html",
+      "next": "lady_carneval_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "27",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ČTVRTÁ ČÁST",
+      "file": "lady_carneval_036.html",
+      "words": 2,
+      "chars": 11,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 32,
+      "prev": "lady_carneval_035.html",
+      "next": "lady_carneval_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ČTVRTÁ ČÁST",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "28",
+      "file": "lady_carneval_037.html",
+      "words": 1619,
+      "chars": 9948,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 33,
+      "prev": "lady_carneval_036.html",
+      "next": "lady_carneval_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "28",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "29",
+      "file": "lady_carneval_038.html",
+      "words": 1564,
+      "chars": 9372,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 34,
+      "prev": "lady_carneval_037.html",
+      "next": "lady_carneval_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "29",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "30",
+      "file": "lady_carneval_039.html",
+      "words": 1444,
+      "chars": 8540,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 35,
+      "prev": "lady_carneval_038.html",
+      "next": "lady_carneval_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "30",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "31",
+      "file": "lady_carneval_040.html",
+      "words": 541,
+      "chars": 3216,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 36,
+      "prev": "lady_carneval_039.html",
+      "next": "lady_carneval_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "31",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "32",
+      "file": "lady_carneval_041.html",
+      "words": 428,
+      "chars": 2549,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 37,
+      "prev": "lady_carneval_040.html",
+      "next": "lady_carneval_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "32",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "33",
+      "file": "lady_carneval_042.html",
+      "words": 737,
+      "chars": 4564,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 38,
+      "prev": "lady_carneval_041.html",
+      "next": "lady_carneval_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "33",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "34",
+      "file": "lady_carneval_043.html",
+      "words": 2325,
+      "chars": 13662,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 39,
+      "prev": "lady_carneval_042.html",
+      "next": "lady_carneval_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "34",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "35",
+      "file": "lady_carneval_044.html",
+      "words": 477,
+      "chars": 2857,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 40,
+      "prev": "lady_carneval_043.html",
+      "next": "lady_carneval_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "35",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PÁTÁ ČÁST",
+      "file": "lady_carneval_045.html",
+      "words": 2,
+      "chars": 9,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 41,
+      "prev": "lady_carneval_044.html",
+      "next": "lady_carneval_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PÁTÁ ČÁST",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "36",
+      "file": "lady_carneval_046.html",
+      "words": 1701,
+      "chars": 10258,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 42,
+      "prev": "lady_carneval_045.html",
+      "next": "lady_carneval_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "36",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "37",
+      "file": "lady_carneval_047.html",
+      "words": 654,
+      "chars": 3851,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 43,
+      "prev": "lady_carneval_046.html",
+      "next": "lady_carneval_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "37",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "38",
+      "file": "lady_carneval_048.html",
+      "words": 833,
+      "chars": 4892,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 44,
+      "prev": "lady_carneval_047.html",
+      "next": "lady_carneval_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "38",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lady Carneval",
+      "file": "lady_carneval_049.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 45,
+      "prev": "lady_carneval_048.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 130,
+      "chars": 848,
+      "ideas": 15,
+      "role": "about",
+      "order": null,
+      "prev": "lady_carneval_049.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 38849,
+      "chars": 232177,
+      "ideas": 745
+    },
+    "chapters": {
+      "words": 38713,
+      "chars": 231290,
+      "ideas": 726
+    }
+  }
+}

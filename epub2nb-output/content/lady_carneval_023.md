@@ -7,10 +7,10 @@ contentType: prose
 
 Za celý ten čas, co se už Olga se Silvestrem Silvestrem znala, neukázal jí ten pokoutní mág a nepředvedl žádné ze svých čar a kouzel, buď tím tak lakotí, myslela si, nebo ve skutečnosti vůbec nic neumí, až teď jim najednou doslova zázrakem sehnal dva lístky na daleko dopředu vyprodaný muzikál Cagliostro. Ale když se pak vraceli z Prahy, nadávali oba jak špačci. Muzikál – přestože zrovna úspěšně obíhal svět – byl obludně hloupý. A tak jediné, co jim z toho utkvělo, byla vlezlá sloka z písničky Lucky Bílé, která tam hrála a zpívala Cagliostrovu milenku:
 
-_Vlez na mě, lásko, vlez,  
+Vlez na mě, lásko, vlez,  
 než předběhne tě černý pes,  
 co k okénku mi chodívá  
-a hubičku loudívá._
+a hubičku loudívá.
 
 „Soužití muzikálu s okultismem je nešťastná záležitost, měl jsem to čekat,“ omlouvá se Silvestr Olze a my se zas hned omluvíme čtenářům, neb jsme si vědomi toho, že ta nekonečná noční dálnice z Prahy do Brna a Silvestrovo vědomí povinnosti zůstat za volantem mazdy po celou cestu navýsost bdělý ho nejspíš přivedou k naučné osvětové přednášce, z níž si bohužel budeme muset aspoň co nejstručnější výtah, aspoň drobný digest vyslechnout:
 

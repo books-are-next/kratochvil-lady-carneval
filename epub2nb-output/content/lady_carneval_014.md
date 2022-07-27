@@ -21,6 +21,6 @@ Bedlivě pozorovala cvrkot kolem a informovala se o vzniku nových nakladatels
 
 * * *
 
-_[1](./resources/undefined) Rokle, strž. Pozn. red._
+[1](./resources/undefined) Rokle, strž. Pozn. red.
 
 </section>
