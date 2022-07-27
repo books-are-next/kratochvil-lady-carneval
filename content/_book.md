@@ -59,7 +59,6 @@ readingOrder:
   - lady_carneval_046.html
   - lady_carneval_047.html
   - lady_carneval_048.html
-  - lady_carneval_049.html
   - about.html
 tocBase:
   - id: section-1
