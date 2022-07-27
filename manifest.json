@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kratochvil-lady-carneval-1574c02",
-  "revision": "1574c02",
+  "identifier": "kratochvil-lady-carneval-a7cec4f",
+  "revision": "a7cec4f",
   "readingOrder": [
     "promo.html",
     "lady_carneval_005.html",
@@ -56,12 +56,11 @@
     "lady_carneval_046.html",
     "lady_carneval_047.html",
     "lady_carneval_048.html",
-    "lady_carneval_049.html",
     "about.html"
   ],
   "generatedAt": {
-    "date": "Wed Jul 27 2022 13:38:20 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658929100371
+    "date": "Wed Jul 27 2022 13:44:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658929462709
   },
   "documents": [
     {
@@ -945,32 +944,12 @@
       "role": "chapter",
       "order": 44,
       "prev": "lady_carneval_047.html",
-      "next": "lady_carneval_049.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "38",
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Lady Carneval",
-      "file": "lady_carneval_049.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 45,
-      "prev": "lady_carneval_048.html",
       "next": "about.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "38",
           "id": null,
           "children": []
         }
@@ -984,7 +963,7 @@
       "ideas": 15,
       "role": "about",
       "order": null,
-      "prev": "lady_carneval_049.html",
+      "prev": "lady_carneval_048.html",
       "next": null,
       "toc": [
         {
