@@ -96,8 +96,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Citát"
+            "title": "Citát",
+            "children": []
           },
           {
             "filename": "lady_carneval_006.md",
@@ -109,6 +109,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "PRVNÍ ČÁST",
             "children": [
               {
                 "filename": "lady_carneval_007.md",
@@ -120,8 +121,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "1"
+                "title": "1",
+                "children": []
               },
               {
                 "filename": "lady_carneval_008.md",
@@ -133,8 +134,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "2"
+                "title": "2",
+                "children": []
               },
               {
                 "filename": "lady_carneval_009.md",
@@ -146,8 +147,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "3"
+                "title": "3",
+                "children": []
               },
               {
                 "filename": "lady_carneval_010.md",
@@ -159,8 +160,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "4"
+                "title": "4",
+                "children": []
               },
               {
                 "filename": "lady_carneval_011.md",
@@ -172,8 +173,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "5"
+                "title": "5",
+                "children": []
               },
               {
                 "filename": "lady_carneval_012.md",
@@ -185,8 +186,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "6"
+                "title": "6",
+                "children": []
               },
               {
                 "filename": "lady_carneval_013.md",
@@ -198,8 +199,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "7"
+                "title": "7",
+                "children": []
               },
               {
                 "filename": "lady_carneval_014.md",
@@ -211,8 +212,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "8"
+                "title": "8",
+                "children": []
               },
               {
                 "filename": "lady_carneval_015.md",
@@ -224,8 +225,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "9"
+                "title": "9",
+                "children": []
               },
               {
                 "filename": "lady_carneval_016.md",
@@ -237,8 +238,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "10"
+                "title": "10",
+                "children": []
               },
               {
                 "filename": "lady_carneval_017.md",
@@ -250,11 +251,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "11"
+                "title": "11",
+                "children": []
               }
-            ],
-            "title": "PRVNÍ ČÁST"
+            ]
           },
           {
             "filename": "lady_carneval_018.md",
@@ -266,6 +266,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "DRUHÁ ČÁST",
             "children": [
               {
                 "filename": "lady_carneval_019.md",
@@ -277,8 +278,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "12"
+                "title": "12",
+                "children": []
               },
               {
                 "filename": "lady_carneval_020.md",
@@ -290,8 +291,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "13"
+                "title": "13",
+                "children": []
               },
               {
                 "filename": "lady_carneval_021.md",
@@ -303,8 +304,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "14"
+                "title": "14",
+                "children": []
               },
               {
                 "filename": "lady_carneval_022.md",
@@ -316,8 +317,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "15"
+                "title": "15",
+                "children": []
               },
               {
                 "filename": "lady_carneval_023.md",
@@ -329,8 +330,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "16"
+                "title": "16",
+                "children": []
               },
               {
                 "filename": "lady_carneval_024.md",
@@ -342,8 +343,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "17"
+                "title": "17",
+                "children": []
               },
               {
                 "filename": "lady_carneval_025.md",
@@ -355,8 +356,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "18"
+                "title": "18",
+                "children": []
               },
               {
                 "filename": "lady_carneval_026.md",
@@ -368,11 +369,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "19"
+                "title": "19",
+                "children": []
               }
-            ],
-            "title": "DRUHÁ ČÁST"
+            ]
           },
           {
             "filename": "lady_carneval_027.md",
@@ -384,6 +384,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "TŘETÍ ČÁST",
             "children": [
               {
                 "filename": "lady_carneval_028.md",
@@ -395,8 +396,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "20"
+                "title": "20",
+                "children": []
               },
               {
                 "filename": "lady_carneval_029.md",
@@ -408,8 +409,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "21"
+                "title": "21",
+                "children": []
               },
               {
                 "filename": "lady_carneval_030.md",
@@ -421,8 +422,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "22"
+                "title": "22",
+                "children": []
               },
               {
                 "filename": "lady_carneval_031.md",
@@ -434,8 +435,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "23"
+                "title": "23",
+                "children": []
               },
               {
                 "filename": "lady_carneval_032.md",
@@ -447,8 +448,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "24"
+                "title": "24",
+                "children": []
               },
               {
                 "filename": "lady_carneval_033.md",
@@ -460,8 +461,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "25"
+                "title": "25",
+                "children": []
               },
               {
                 "filename": "lady_carneval_034.md",
@@ -473,8 +474,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "26"
+                "title": "26",
+                "children": []
               },
               {
                 "filename": "lady_carneval_035.md",
@@ -486,11 +487,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "27"
+                "title": "27",
+                "children": []
               }
-            ],
-            "title": "TŘETÍ ČÁST"
+            ]
           },
           {
             "filename": "lady_carneval_036.md",
@@ -502,6 +502,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "ČTVRTÁ ČÁST",
             "children": [
               {
                 "filename": "lady_carneval_037.md",
@@ -513,8 +514,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "28"
+                "title": "28",
+                "children": []
               },
               {
                 "filename": "lady_carneval_038.md",
@@ -526,8 +527,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "29"
+                "title": "29",
+                "children": []
               },
               {
                 "filename": "lady_carneval_039.md",
@@ -539,8 +540,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "30"
+                "title": "30",
+                "children": []
               },
               {
                 "filename": "lady_carneval_040.md",
@@ -552,8 +553,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "31"
+                "title": "31",
+                "children": []
               },
               {
                 "filename": "lady_carneval_041.md",
@@ -565,8 +566,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "32"
+                "title": "32",
+                "children": []
               },
               {
                 "filename": "lady_carneval_042.md",
@@ -578,8 +579,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "33"
+                "title": "33",
+                "children": []
               },
               {
                 "filename": "lady_carneval_043.md",
@@ -591,8 +592,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "34"
+                "title": "34",
+                "children": []
               },
               {
                 "filename": "lady_carneval_044.md",
@@ -604,11 +605,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "35"
+                "title": "35",
+                "children": []
               }
-            ],
-            "title": "ČTVRTÁ ČÁST"
+            ]
           },
           {
             "filename": "lady_carneval_045.md",
@@ -620,6 +620,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "PÁTÁ ČÁST",
             "children": [
               {
                 "filename": "lady_carneval_046.md",
@@ -631,8 +632,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "36"
+                "title": "36",
+                "children": []
               },
               {
                 "filename": "lady_carneval_047.md",
@@ -644,8 +645,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "37"
+                "title": "37",
+                "children": []
               },
               {
                 "filename": "lady_carneval_048.md",
@@ -657,17 +658,16 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "38"
+                "title": "38",
+                "children": []
               }
-            ],
-            "title": "PÁTÁ ČÁST"
+            ]
           },
           {
             "filename": "lady_carneval_049.md",
             "xhtml": "lady_carneval_049.xhtml",
             "id": 48,
-            "role": "chapter",
+            "role": "remove",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
@@ -1079,6 +1079,6 @@
       "user": "books-are-next",
       "repo": "kratochvil-lady-carneval"
     },
-    "generatedAt": 1658413657742
+    "generatedAt": 1658929001466
   }
 }
