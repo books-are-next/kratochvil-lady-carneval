@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-2693-5
 readingOrder:
   - promo.html
   - lady_carneval_005.html
