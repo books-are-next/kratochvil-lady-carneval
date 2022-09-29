@@ -11,7 +11,7 @@ Však Olga byla především rváč. Nahoru se v osmdesátých letech dostala n
 
 <section>
 
-Proto ani teď nepřijala žádnou porážku. A ta její chvilková deprese byla omluvitelná: vždyť ten mrcha osud ji ze zlatého kočáru vykopl do zmoly[1](./resources/undefined), a ještě jí přitom zlámal haksnu. Ale teď už je zas načase postavit se na nohy, obrazně i doslova.
+Proto ani teď nepřijala žádnou porážku. A ta její chvilková deprese byla omluvitelná: vždyť ten mrcha osud ji ze zlatého kočáru vykopl do zmoly[^1], a ještě jí přitom zlámal haksnu. Ale teď už je zas načase postavit se na nohy, obrazně i doslova.
 
 A tak se do toho dala s plnou vervou. Rozhodla se rozchodit co nejrychleji. Pojídala vitaminy, minerály, kalcium a podřídila se tvrdé disciplíně a životosprávě. Přísně se vyhýbala bourbonu a teď po rozchodu s Mirkem na sebe uvalila i sexuální karanténu, aby se vnitřně pročistila. Leč žít úplně sama jí přišlo hloupé, a tak si pořídila odrostlejší kotě, kocoura, a pojmenovala ho podle svého nejmilejšího románového hrdiny Porthose.
 
@@ -21,6 +21,6 @@ Bedlivě pozorovala cvrkot kolem a informovala se o vzniku nových nakladatels
 
 * * *
 
-[1](./resources/undefined) Rokle, strž. Pozn. red.
+[^1]: Rokle, strž. Pozn. red.
 
 </section>

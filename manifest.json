@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kratochvil-lady-carneval-08ed2bb",
-  "revision": "08ed2bb",
+  "identifier": "kratochvil-lady-carneval-0c2ff1c",
+  "revision": "0c2ff1c",
   "readingOrder": [
     "promo.html",
     "lady_carneval_005.html",
@@ -59,8 +59,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Aug 01 2022 11:54:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1659354849265
+    "date": "Thu Sep 29 2022 21:27:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486864711
   },
   "documents": [
     {
@@ -259,7 +259,7 @@
       "title": "8",
       "file": "lady_carneval_014.html",
       "words": 442,
-      "chars": 2612,
+      "chars": 2613,
       "ideas": 7,
       "role": "chapter",
       "order": 10,
@@ -959,7 +959,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 134,
-      "chars": 884,
+      "chars": 885,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -979,12 +979,12 @@
   "totals": {
     "all": {
       "words": 38853,
-      "chars": 232213,
+      "chars": 232215,
       "ideas": 746
     },
     "chapters": {
       "words": 38713,
-      "chars": 231290,
+      "chars": 231291,
       "ideas": 726
     }
   }
