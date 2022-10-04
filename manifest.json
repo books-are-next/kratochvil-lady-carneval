@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kratochvil-lady-carneval-d2487c6",
-  "revision": "d2487c6",
+  "identifier": "kratochvil-lady-carneval-4033647",
+  "revision": "4033647",
   "readingOrder": [
     "promo.html",
     "lady_carneval_005.html",
@@ -59,8 +59,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 16:45:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664901940122
+    "date": "Tue Oct 04 2022 18:40:12 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664908812758
   },
   "documents": [
     {
