@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kratochvil-lady-carneval-8a656ac",
-  "revision": "8a656ac",
+  "identifier": "kratochvil-lady-carneval-8d438bc",
+  "revision": "8d438bc",
   "readingOrder": [
     "promo.html",
     "lady_carneval_005.html",
@@ -59,8 +59,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:54:48 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150888960
+    "date": "Mon Oct 10 2022 15:47:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416845751
   },
   "documents": [
     {
@@ -959,7 +959,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 132,
-      "chars": 885,
+      "chars": 886,
       "ideas": 14,
       "role": "about",
       "order": null,
@@ -979,7 +979,7 @@
   "totals": {
     "all": {
       "words": 38851,
-      "chars": 232215,
+      "chars": 232216,
       "ideas": 744
     },
     "chapters": {
